@@ -1,3 +1,30 @@
+body{
+    padding-top:70px;
+    color:#666666;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.7em;
+    font-weight:200;
+    font-size:16px;
+}
+a{
+    color:#666666;
+    text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6{
+    color:#333;
+}
+h1{
+    font-weight:300;
+    font-size:26px;
+}
+strong{
+    font-weight:700;
+}
+.description{
+    max-width:1000px;
+}
+
+
 /* Fullscreen modal (lightbox effect) */
 .modal-dialog {
     max-width: 100%;
@@ -35,6 +62,145 @@ iframe {
     text-transform:uppercase;
 }
 
-body{
-    background:black;
+/*
+=================================================
+SEARCH
+=================================================
+*/
+.search {
+    max-width: 650px;
+    margin: 10px auto 75px auto;
+}
+.search input {
+    font-size: 32px;
+    border-radius: 0;
+    margin-right: 0;
+    font-weight: 100;
+}
+.search button {
+    margin: 0;
+    border-radius: 0;
+}
+.hidden{
+    display: none !important;
+}
+/*
+=================================================
+P2E
+=================================================
+*/
+.gradient_bg{
+    background-image: url('img/gradient_bg.jpg');
+    background-size: cover;
+}
+.p2e h1{
+    font-weight:700;
+    color:#FFF;
+    font-size:42px;
+} 
+/*
+============================================
+NEFTY BLOCKS
+============================================
+*/
+.market-spinner{
+    position:absolute;
+    top: 200px;
+    left:50%;
+}
+neftyblocks-market::part(card-group) {
+    grid-template-columns: repeat(auto-fit, minmax(200px, -webkit-max-content));
+    grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
+    justify-items: center;
+    justify-content: center;
+}
+
+neftyblocks-market::part(card-shadow) {
+    display: none;
+}
+
+neftyblocks-market::part(card-collection) {
+    display: none;
+}
+neftyblocks-market::part(card-name) {
+    padding: 0;
+    font-weight: 100;
+}
+neftyblocks-market::part(card) {
+    min-height:inherit;
+}
+neftyblocks-market::part(card-visual) {
+    min-height:inherit;
+    height:inherit;
+}
+:root {
+    /* the font-family for all text */
+    --nefty-font-family: sans-serif;
+    /* the default font size (best kept as is) */
+    --nefty-font-size: 10px;
+    /* the smaller font size (best kept as is) */
+    --nefty-font-weight: 100;
+    --nefty-font-size--small: 14px;
+
+    /* the minimum and maximum width of the cards (responsive)  */
+    --nefty-card-size-min: 220px;
+    --nefty-card-size-max: 1fr;
+
+    /*  the space between cards */
+    --nefty-cards-gap: 28px;
+
+    /* border radius for all roundings of inputs, buttons, images */
+    --nefty-radius: 0;
+    --nefty-radius-image: 0;
+    --nefty-radius-small: 0;
+
+    /* border color for buttons, inputs */
+    --nefty-border: #cccccc;
+    /* border color for the cards (if none use same color as card background) */
+    --nefty-border-card: #cccccc;
+    /* border thickness */
+    --nefty-border-size: 1px;
+
+    /* color primary text */
+    --nefty-color: #000000;
+    /* colors for non primary text */
+    --nefty-color-secondary: #777e90;
+
+    /* buy button in the card (highlight) */
+    --nefty-btn-primary: #000000;
+    --nefty-btn-primary-bg: transparent;
+    --nefty-btn-primary-border: #000000;
+    --nefty-btn-primary--active: #ffffff;
+    --nefty-btn-primary-bg--active: #000000;
+    --nefty-btn-primary-border--active: #000000;
+
+    /* styling of pagination buttons and small reset button (will appear once you start filtering) */
+    --nefty-btn-secondary: #fcfcfd;
+    --nefty-btn-secondary-bg: #141416;
+    --nefty-btn-secondary-border: #353945;
+    --nefty-btn-secondary--active: #fcfcfd;
+    --nefty-btn-secondary-bg--active: #353945;
+    --nefty-btn-secondary-border--active: #353945;
+
+    /* the filter button on mobile design */
+    --nefty-btn-tertiary: #141416;
+    --nefty-btn-tertiary-bg: #fcfcfd;
+    --nefty-btn-tertiary-border: #fcfcfd;
+    --nefty-btn-tertiary--active: #fcfcfd;
+    --nefty-btn-tertiary-bg--active: #141416;
+    --nefty-btn-tertiary-border--active: #fcfcfd;
+
+    /* backgrounds */
+    /* list background in filters (schemas) */
+    --nefty-bg-list-item: #cccccc;
+    /* card mint background */
+    --nefty-bg-mint: transparent;
+    /* all inputs (filters) */
+    --nefty-bg-inputs: transparent;
+    /* card background */
+    --nefty-bg-card: #fafafa;
+    /* loading state */
+    --nefty-bg-loading: #ffffff;
+    /* fallback background color for images (best kept as is) */
+    --nefty-bg-image: transparent;
 }

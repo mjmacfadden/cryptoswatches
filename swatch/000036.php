@@ -3,14 +3,14 @@
 ?>
 
 <section class="hero-section d-flex justify-content-center align-items-center p-5" style="background:#434343;">
-    <img src="img/000036_maik.gif" alt="Centered Image" class="img-fluid">
+    <img src="img/000036_maik.gif" alt="Centered Image" class="img-fluid my-5">
 </section>
-<div class="container p-5">
+<div class="container description p-5">
     <div class="row">
         <div class="col">
     
-            <h1>MAIK COLLABORATION</h1>
-            <p>by&nbsp;<a title="Posts by Mike Macfadden" href="https://cryptoswatches.com/author/mmacfadden/" rel="author">Mike Macfadden</a></p>
+            <h1 class="text-end">MAIKI COLLABORATION</h1>
+            <p class="text-end">by Mike Macfadden</p>
             <p><em>The following is an artist profile featuring&nbsp;<strong><a href="https://twitter.com/maiki_NFT" target="_blank" rel="noopener">@maiki_NFT</a></strong>, the creator of the animation in this series.</em></p>
             <p><strong>Please introduce yourself to our readers. What would you like them to know about you?</strong></p>
             <p>Hi, I am Maik. I come from a small village in Germany and currently I am living in Hamburg. I&acute;ve been working in the so-called &ldquo;creative industry&rdquo; for the last 10 years, doing mostly animations and illustrations for&nbsp;movies, documentaries and the advertising industry, but I didn&acute;t like &ldquo;the industry&rdquo; so much, so I quit a year ago and now I have a relaxed job&mdash;just three days a week in a small shop&mdash;and the rest of the time, I make my own stuff, at the moment mostly nft-related.</p>
