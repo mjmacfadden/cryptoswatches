@@ -239,38 +239,6 @@
         </a>
       </div>
 
-      <!-- ROW 7 -->
-      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000158.php">
-          <img src="img/000158.png" class="img-fluid" alt="Feltnerlii">
-        </a>
-      </div>
-      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000164.php">  
-          <img src="img/000164.png" class="img-fluid" alt="TIDBYTS">
-        </a>
-      </div>
-      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000178.php">
-          <img src="img/000178.png" class="img-fluid" alt="CornchipsDCS">
-        </a>
-      </div>
-      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000181.php">
-          <img src="img/000181.png" class="img-fluid" alt="DemCuteFrens">
-        </a>
-      </div>
-      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000189.php">
-          <img src="img/000189.png" class="img-fluid" alt="humbledrawing">
-        </a>
-      </div>
-      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000192.php">
-          <img src="img/000192.png" class="img-fluid" alt="JackOfHeartsNFTs">
-        </a>
-      </div>
-
       <!-- ROW 8 -->
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
         <a href="swatch/000198.php">
@@ -278,31 +246,418 @@
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000164.php">  
-          <img src="img/000164.png" class="img-fluid" alt="TIDBYTS">
+        <a href="swatch/000202.php">  
+          <img src="img/000202.png" class="img-fluid" alt="FolksGrim">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000178.php">
-          <img src="img/000178.png" class="img-fluid" alt="CornchipsDCS">
+        <a href="swatch/000206.php">
+          <img src="img/000206.png" class="img-fluid" alt="FolksGrim">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000181.php">
-          <img src="img/000181.png" class="img-fluid" alt="DemCuteFrens">
+        <a href="swatch/000210.php">
+          <img src="img/000210.png" class="img-fluid" alt="FolksGrim">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000189.php">
-          <img src="img/000189.png" class="img-fluid" alt="humbledrawing">
+        <a href="swatch/000214.php">
+          <img src="img/000214.png" class="img-fluid" alt="FolksGrim">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000192.php">
-          <img src="img/000192.png" class="img-fluid" alt="JackOfHeartsNFTs">
+        <a href="swatch/000218.php">
+          <img src="img/000218.png" class="img-fluid" alt="FolksGrim">
         </a>
       </div>
 
+
+      <!-- ROW 9 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000220.php">
+          <img src="img/000220.png" class="img-fluid" alt="NFTNoob23">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000228.php">  
+          <img src="img/000228.png" class="img-fluid" alt="oliv3r_hass3ll">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000232.php">
+          <img src="img/000232.png" class="img-fluid" alt="CURBANCULTURENFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000236.php">
+          <img src="img/000236.gif" class="img-fluid" alt="SPACEMAN">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000239.php">
+          <img src="img/000239.png" class="img-fluid" alt="JoeNfts">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000244.php">
+          <img src="img/000244.png" class="img-fluid" alt="PUMPKIN SPICE">
+        </a>
+      </div>
+
+      <!-- ROW 10 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000247.php">
+          <img src="img/000247.png" class="img-fluid" alt="INTO THE SUNSET">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000250.php">  
+          <img src="img/000250.png" class="img-fluid" alt="NEON TURKEY">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000253.php">
+          <img src="img/000253.png" class="img-fluid" alt="bretblackberg">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000257.php">
+          <img src="img/000257.png" class="img-fluid" alt="TO THE MOON">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000259.php">
+          <img src="img/000259.png" class="img-fluid" alt="ARCTIC GNOME">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000262.php">
+          <img src="img/000262.png" class="img-fluid" alt="AstroKutyz">
+        </a>
+      </div>
+
+      <!-- ROW 11 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000270.php">
+          <img src="img/000270.png" class="img-fluid" alt="SANTA'S HERD">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000281.php">  
+          <img src="img/000281.png" class="img-fluid" alt="CyberDucksNFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000285.php">
+          <img src="img/000285.png" class="img-fluid" alt="KryptoKumas">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000287.php">
+          <img src="img/000287.png" class="img-fluid" alt="PHYSICALITY IS A BUG">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000293.php">
+          <img src="img/000293.png" class="img-fluid" alt="RoyalDex">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000301.php">
+          <img src="img/000301.png" class="img-fluid" alt="NippyNip2">
+        </a>
+      </div>
+      
+      <!-- ROW 12 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000307.php">
+          <img src="img/000307.png" class="img-fluid" alt="TheOwlzCongress">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000311.php">  
+          <img src="img/000311.png" class="img-fluid" alt="SPACECHICKEN3">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000314.php">
+          <img src="img/000314.png" class="img-fluid" alt="Noodsly">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000320.php">
+          <img src="img/000320.png" class="img-fluid" alt="seniorLUPE">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000325.php">
+          <img src="img/000325.png" class="img-fluid" alt="CorpWorld_NFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000327.php">
+          <img src="img/000327.png" class="img-fluid" alt="MONICAREMPEL">
+        </a>
+      </div>
+
+      <!-- ROW 13 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000328.php">
+          <img src="img/000328.png" class="img-fluid" alt="WAXHAM">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000333.php">  
+          <img src="img/000333.png" class="img-fluid" alt="NyteWolf503">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000337.php">
+          <img src="img/000337.png" class="img-fluid" alt="SATANAS NFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000341.php">
+          <img src="img/000341.png" class="img-fluid" alt="BunnyonWorld">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000346.php">
+          <img src="img/000346.png" class="img-fluid" alt="DPIGEONSNFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000350.php">
+          <img src="img/000350.png" class="img-fluid" alt="ShnazzyNFTs">
+        </a>
+      </div>
+
+
+      <!-- ROW 14 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000354.php">
+          <img src="img/000354.png" class="img-fluid" alt="Huddo606">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000359.php">  
+          <img src="img/000359.png" class="img-fluid" alt="INTO THE METAVERSE">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000364.php">
+          <img src="img/000364.png" class="img-fluid" alt="dogsquadnft">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000368.php">
+          <img src="img/000368.png" class="img-fluid" alt="toonpaintNFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000372.php">
+          <img src="img/000372.png" class="img-fluid" alt="SublimeNFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000374.php">
+          <img src="img/000374.png" class="img-fluid" alt="HOW IT STARTED">
+        </a>
+      </div>
+
+      <!-- ROW 15 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000376.php">
+          <img src="img/000376.png" class="img-fluid" alt="Huddo606">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000380.php">  
+          <img src="img/000380.png" class="img-fluid" alt="VirusBustersNFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000382.php">
+          <img src="img/000382.png" class="img-fluid" alt="STAND WITH UKRAINE">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000385.php">
+          <img src="img/000385.png" class="img-fluid" alt="SnkrsWax">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000389.php">
+          <img src="img/000389.png" class="img-fluid" alt="AmarO_dog">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000393.php">
+          <img src="img/000393.png" class="img-fluid" alt="WAX_BALLS">
+        </a>
+      </div>
+
+      <!-- ROW 15 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000397.php">
+          <img src="img/000397.png" class="img-fluid" alt="NFTAlleyCat">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000401.php">  
+          <img src="img/000401.png" class="img-fluid" alt="davborja0918">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000405.php">
+          <img src="img/000405.png" class="img-fluid" alt="_Coyoteplains">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000409.php">
+          <img src="img/000409.png" class="img-fluid" alt="MammothMythics">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000413.php">
+          <img src="img/000413.png" class="img-fluid" alt="AZer0c00LArt">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000417.php">
+          <img src="img/000417.png" class="img-fluid" alt="TheDuckles">
+        </a>
+      </div>
+      
+      <!-- ROW 16 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000421.php">
+          <img src="img/000421.png" class="img-fluid" alt="kaosmoon_circle">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000429.php">  
+          <img src="img/000429.png" class="img-fluid" alt="maiki_NFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000431.php">
+          <img src="img/000431.png" class="img-fluid" alt="DollzBroken">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000434.php">
+          <img src="img/000434.png" class="img-fluid" alt="WallaceTallman">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000438.php">
+          <img src="img/000438.png" class="img-fluid" alt="galeria_nft">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000443.php">
+          <img src="img/000443.png" class="img-fluid" alt="thechairunivers">
+        </a>
+      </div>
+
+      <!-- ROW 16 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000447.php">
+          <img src="img/000447.png" class="img-fluid" alt="Muenstervision">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000455.php">  
+          <img src="img/000455.png" class="img-fluid" alt="rapperjrgnft">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000459.php">
+          <img src="img/000459.png" class="img-fluid" alt="wtmacfadden">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000463.php">
+          <img src="img/000463.png" class="img-fluid" alt="CyanideArts">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000471.php">
+          <img src="img/000471.png" class="img-fluid" alt="Dogefellasgame">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000475.php">
+          <img src="img/000475.png" class="img-fluid" alt="BITCOIN BEAR">
+        </a>
+      </div>
+
+      <!-- ROW 17 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000479.php">
+          <img src="img/000479.png" class="img-fluid" alt="The CryptoFunk Bears">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000483.php">  
+          <img src="img/000483.png" class="img-fluid" alt="GiantGiraffeNFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000487.php">
+          <img src="img/000487.png" class="img-fluid" alt="SaduOne">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000491.php">
+          <img src="img/000491.png" class="img-fluid" alt="skatecoinwax">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000495.php">
+          <img src="img/000495.png" class="img-fluid" alt="QuasimanNFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000499.php">
+          <img src="img/000499.png" class="img-fluid" alt="MOON LADDER">
+        </a>
+      </div>
+
+      <!-- ROW 18 -->
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000503.php">
+          <img src="img/000503.png" class="img-fluid" alt="GALERIA_NFT">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000507.php">  
+          <img src="img/000507.png" class="img-fluid" alt="Crackers832">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000511.php">
+          <img src="img/000511.png" class="img-fluid" alt="ArtsofClarke">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000515.php">
+          <img src="img/000515.png" class="img-fluid" alt="beedenft">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000519.php">
+          <img src="img/000519.png" class="img-fluid" alt="troysartwork">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/000523.php">
+          <img src="img/000523.png" class="img-fluid" alt="KARATE CACTUS">
+        </a>
+      </div>
+      
+      
 
 
       <div style="height:400px;"></div>
