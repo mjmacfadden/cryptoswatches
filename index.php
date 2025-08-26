@@ -2,9 +2,6 @@
     include 'header.php'; // Include header
 ?>
 
-<!--[if lt IE 7]>
-    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-<![endif]-->
 
 <div class="container my-4 shadow-img">
     <div class="row">
@@ -17,22 +14,112 @@
     <div class="row mt-4">
       <!-- ROW 1 -->
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000003.php">
+        <a href="swatch/genesis.php">
+          <img src="img/000001.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
+          <img src="img/000002.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
           <img src="img/000003.png" class="img-fluid" alt="Genesis">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000011.php">  
+        <a href="swatch/genesis.php">
+          <img src="img/000004.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
+          <img src="img/000005.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
+          <img src="img/000006.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
+          <img src="img/000007.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
+          <img src="img/000008.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
+          <img src="img/000009.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/genesis.php">
+          <img src="img/000010.png" class="img-fluid" alt="Genesis">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/spring-collection.php">  
           <img src="img/000011.png" class="img-fluid" alt="Spring Collection">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000017.php">
+        <a href="swatch/gold-burst.php">  
+          <img src="img/000012.gif" class="img-fluid" alt="Gold Burst">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/spring-collection.php">  
+          <img src="img/000013.png" class="img-fluid" alt="Spring Collection">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/spring-collection.php">  
+          <img src="img/000014.png" class="img-fluid" alt="Spring Collection">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/spring-collection.php">  
+          <img src="img/000015.png" class="img-fluid" alt="Spring Collection">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/spring-collection.php">  
+          <img src="img/000016.png" class="img-fluid" alt="Spring Collection">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/spring-collection.php">  
+          <img src="img/spring_collection.gif" class="img-fluid" alt="Spring Collection">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/proof-of-concept.php">
           <img src="img/000017.gif" class="img-fluid" alt="Proof of Concept">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000021.php">
+        <a href="swatch/proof-of-concept.php">
+          <img src="img/000018.gif" class="img-fluid" alt="Proof of Concept">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/proof-of-concept.php">
+          <img src="img/000019.gif" class="img-fluid" alt="Proof of Concept">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/proof-of-concept.php">
+          <img src="img/000020.gif" class="img-fluid" alt="Proof of Concept">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/winand.php">
           <img src="img/000021.png" class="img-fluid" alt="Winand">
         </a>
       </div>
@@ -49,7 +136,17 @@
 
       <!-- ROW 2 -->
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000026.php">
+        <a href="swatch/cyber-duck-1.php">
+          <img src="img/000024.gif" class="img-fluid" alt="Cyber Ducks">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/cyber-duck-1.php">
+          <img src="img/000025.gif" class="img-fluid" alt="Cyber Ducks">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/cyber-duck-1.php">
           <img src="img/000026.gif" class="img-fluid" alt="Cyber Ducks">
         </a>
       </div>
@@ -656,11 +753,6 @@
           <img src="img/000523.png" class="img-fluid" alt="KARATE CACTUS">
         </a>
       </div>
-      
-      
-
-
-      <div style="height:400px;"></div>
 
 
 <script>

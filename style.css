@@ -61,6 +61,10 @@ iframe {
 .navbar{
     text-transform:uppercase;
 }
+.footer-bar{
+    font-size:14px;
+    font-weight: 300;
+}
 
 /*
 =================================================
@@ -98,6 +102,58 @@ P2E
     color:#FFF;
     font-size:42px;
 } 
+
+
+
+/*
+============================================
+INTERNAL PAGE
+============================================
+*/
+.swatch-hero img{
+    max-width:414px;
+    width:100%;
+}
+.swatch-hero a{
+    display: block;
+    text-align: center;
+    margin-top:48px;
+}
+.swatch-hero i{
+    display: block;
+    font-size:24px;
+    color:#FFF;
+    text-align: center;
+}
+
+#swatch-description{
+    max-width:900px;
+    margin:0 auto;
+}
+#swatch-description h1, h3{
+    font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: right;
+    color:#333;
+}
+#swatch-description h3{
+    font-size:22px;
+    text-align:left;
+}
+#swatch-description h4{
+    color:#666;
+    text-align:right;
+    font-weight:300;
+    font-size:14px;
+}
+.swatch-footer .container{
+    max-width:1200px;
+}
+.swatch-footer img{
+    width:100%;
+}
+
 /*
 ============================================
 NEFTY BLOCKS

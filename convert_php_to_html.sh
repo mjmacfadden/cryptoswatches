@@ -1,22 +1,15 @@
 #!/bin/bash
 
-# Directory where PHP files are located
-directory="."
+root_dir="."
 
-# Loop through all PHP files in the directory
-for php_file in $directory/*.php; do
-    # Create the corresponding HTML filename
+find "$root_dir" -type f -name "*.php" | while read -r php_file; do
     html_file="${php_file%.php}.html"
-    
-    # Execute the PHP file and get the output
-    html_content=$(php "$php_file")
-    
-    # Replace .php links with .html links
-    html_content="${html_content//.php/.html}"
-    
-    # Save the updated HTML content to the new .html file
+    php_dir="$(dirname "$php_file")"
+    php_base="$(basename "$php_file")"
+    # Execute the PHP file from its own directory
+    html_content=$(cd "$php_dir" && php "$php_base")
+    # Replace .php with .html only in href/src attributes
+    html_content=$(echo "$html_content" | sed -E 's/(href|src)="([^"]+)\.php"/\1="\2.html"/g')
     echo "$html_content" > "$html_file"
-    
-    # Output message
     echo "Converted $php_file to $html_file"
 done
