@@ -1,4 +1,5 @@
 <?php
+    $og_image = 'img/featured-img/about-featured-img.jpg'; // Set before including header
     include '../header.php'; // Include header
 ?>
 <div class="swatch-hero py-5" style="background-color:#172844;">

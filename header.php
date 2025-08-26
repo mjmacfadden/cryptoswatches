@@ -9,6 +9,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>cryptoswatch</title>
     <meta name="description" content="">
+    <!-- Default Open Graph image, can be overridden -->
+    <?php
+        // If $og_image is set before including header.php, use it; otherwise use default
+        $og_image_path = isset($og_image) ? $og_image : 'img/featured-img/featured-img.jpg';
+    ?>
+    <meta property="og:image" content="<?php echo $og_image_path; ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="/cryptoswatches/" />
     <!-- Bootstrap 5 CSS -->

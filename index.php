@@ -6,7 +6,7 @@
 <div class="container my-4 shadow-img">
     <div class="row">
     <!-- SEARCH -->
-      <div class="d-flex search mb-4">
+    <div class="d-flex search mb-4">
           <input class="form-control" id="userInput" type="search" placeholder="find a project..." aria-label="Search">
       </div>
     </div>
