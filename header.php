@@ -11,8 +11,8 @@
     <meta name="description" content="">
     <!-- Default Open Graph image, can be overridden -->
     <?php
-        // If $og_image is set before including header.php, use it; otherwise use default
-        $og_image_path = isset($og_image) ? $og_image : 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/home-featured-img.jpg';
+    // If $og_image is set before including header.php, use it; otherwise use default
+    $og_image_path = isset($og_image) ? $og_image : 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/home-featured-img.jpg';
     ?>
     <meta property="og:image" content="<?php echo $og_image_path; ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
