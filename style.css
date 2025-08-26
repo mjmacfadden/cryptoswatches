@@ -23,7 +23,8 @@ strong{
 .description{
     max-width:1000px;
 }
-
+.grey-bg{
+    background:#f1f1f1;}
 
 /* Fullscreen modal (lightbox effect) */
 .modal-dialog {
@@ -126,9 +127,10 @@ INTERNAL PAGE
     text-align: center;
 }
 
-#swatch-description{
+#swatch-description,
+.swatch-description{
     max-width:900px;
-    margin:0 auto;
+    margin:52px auto 0 auto;
 }
 #swatch-description h1, h3{
     font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif;
@@ -137,7 +139,8 @@ INTERNAL PAGE
     text-align: right;
     color:#333;
 }
-#swatch-description h3{
+#swatch-description h3,
+.swatch-description h3{
     font-size:22px;
     text-align:left;
 }
