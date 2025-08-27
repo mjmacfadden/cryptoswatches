@@ -155,6 +155,7 @@ INTERNAL PAGE
 }
 .swatch-footer img{
     width:100%;
+    max-width:414px;
 }
 
 /*

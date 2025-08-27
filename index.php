@@ -151,17 +151,17 @@
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000032.php">  
+        <a href="swatch/michael-difeo.php">  
           <img src="img/000032.jpg" class="img-fluid" alt="Michael Difeo">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000036.php">
+        <a href="swatch/maiki-nft.php">
           <img src="img/000036.gif" class="img-fluid" alt="Maiki">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000037a.php">
+        <a href="swatch/this-is-a-test.php">
           <img src="img/000037a.gif" class="img-fluid" alt="This is a Test">
         </a>
       </div>

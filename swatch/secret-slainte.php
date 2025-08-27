@@ -6,7 +6,7 @@
         <div class="d-flex justify-content-center align-items-center mb-4">
             <img src="img/000022.gif" class="img-fluid" alt="Winand">
         </div>
-        <a href="swatch/winand.php#swatch-description">
+        <a href="swatch/secret-slainte.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
         </a>
     </div>
@@ -25,7 +25,7 @@
             <a href="swatch/winand.php"><i class="bi bi-arrow-left"></i> WINAND</a>
         </div>
         <div class="col-lg-6 text-end">
-            <a href="swatch/in-homge.php">IN HOMAGE <i class="bi bi-arrow-right"></i></a>
+            <a href="swatch/in-homage.php">IN HOMAGE <i class="bi bi-arrow-right"></i></a>
         </div>
     </div>
 </div>
