@@ -124,12 +124,12 @@
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000022.php">
-          <img src="img/000022.gif" class="img-fluid" alt="Secret Slante">
+        <a href="swatch/secret-slainte.php">
+          <img src="img/000022.gif" class="img-fluid" alt="Secret Slainte">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000023.php">
+        <a href="swatch/in-homage.php">
           <img src="img/000023.png" class="img-fluid" alt="In Homage">
         </a>
       </div>
