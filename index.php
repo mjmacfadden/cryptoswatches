@@ -136,23 +136,63 @@
 
       <!-- ROW 2 -->
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/cyber-duck-1.php">
+        <a href="swatch/cyber-ducks-1.php">
           <img src="img/000024.gif" class="img-fluid" alt="Cyber Ducks">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/cyber-duck-1.php">
+        <a href="swatch/cyber-ducks-1.php">
           <img src="img/000025.gif" class="img-fluid" alt="Cyber Ducks">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/cyber-duck-1.php">
+        <a href="swatch/cyber-ducks-1.php">
           <img src="img/000026.gif" class="img-fluid" alt="Cyber Ducks">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/cyber-ducks-1.php">  
+          <img src="img/000027.gif" class="img-fluid" alt="Cyber Ducks">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/michael-difeo.php">  
+          <img src="img/000028.png" class="img-fluid" alt="Michael Difeo">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/michael-difeo.php">  
+          <img src="img/000029.png" class="img-fluid" alt="Michael Difeo">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/michael-difeo.php">  
+          <img src="img/000030.png" class="img-fluid" alt="Michael Difeo">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/michael-difeo.php">  
+          <img src="img/000031.png" class="img-fluid" alt="Michael Difeo">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
         <a href="swatch/michael-difeo.php">  
           <img src="img/000032.jpg" class="img-fluid" alt="Michael Difeo">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/maiki-nft.php">
+          <img src="img/000033.png" class="img-fluid" alt="Maiki">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/maiki-nft.php">
+          <img src="img/000034.png" class="img-fluid" alt="Maiki">
+        </a>
+      </div>
+      <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+        <a href="swatch/maiki-nft.php">
+          <img src="img/000035.png" class="img-fluid" alt="Maiki">
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
