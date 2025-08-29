@@ -206,7 +206,7 @@
         </a>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-        <a href="swatch/000037b.php">
+        <a href="swatch/april-fools.php">
           <img src="img/000037b.gif" class="img-fluid" alt="April Fools">
         </a>
       </div>

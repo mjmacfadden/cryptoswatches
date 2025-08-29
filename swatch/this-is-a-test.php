@@ -26,7 +26,7 @@
             <a href="swatch/maiki-nft.php"><i class="bi bi-arrow-left"></i> MAIKI NFT</a>
         </div>
         <div class="col-lg-6 text-end">
-            <a href="swatch/the-1st-of-april.php">THE 1ST OF APRIL <i class="bi bi-arrow-right"></i></a>
+            <a href="swatch/april-fools.php">THE 1ST OF APRIL <i class="bi bi-arrow-right"></i></a>
         </div>
     </div>
 </div>
