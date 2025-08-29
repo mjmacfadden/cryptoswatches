@@ -1,4 +1,5 @@
 <?php
+    $og_image = 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/spring-collection-featured-img.jpg'; // Set before including header
     include '../header.php'; // Include header
 ?>
 <div class="swatch-hero py-5" style="background-color:#012233;">

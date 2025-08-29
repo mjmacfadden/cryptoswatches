@@ -1,4 +1,5 @@
 <?php
+     $og_image = 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/gold-burst-featured-img.jpg'; // Set before including header
     include '../header.php'; // Include header
 ?>
 
