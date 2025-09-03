@@ -27,7 +27,7 @@
             <a href="swatch/secret-slainte.php"><i class="bi bi-arrow-left"></i> SECRET SLAINTE </a>
         </div>
         <div class="col-6 text-end">
-            <a href="swatch/cyber-ducks.php">CYBER DUCKS <i class="bi bi-arrow-right"></i></a>
+            <a href="swatch/cyber-ducks-1.php">CYBER DUCKS <i class="bi bi-arrow-right"></i></a>
         </div>
     </div>
 </div>

@@ -74,7 +74,7 @@ iframe {
 }
 .basicLightbox img{
     max-width: 414px !important;
-    width:100%;
+    width:100% !important;
 }
 
 /*

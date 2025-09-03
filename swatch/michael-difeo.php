@@ -42,20 +42,20 @@
     <div class="container my-4 shadow-img">
         <div class="row mt-4">
 <div class="row mt-4">
-  <div class="col-12 col-sm-6 col-md-4 col-lg d-flex justify-content-center align-items-center mb-4">
-    <img src="img/000028.png" class="img-fluid" alt="Michael Difeo Collaboration">
+  <div class="col d-flex justify-content-center align-items-center mb-4">
+    <img src="img/000028.png" class="img-fluid lightbox" alt="Michael Difeo Collaboration">
   </div>
-  <div class="col-12 col-sm-6 col-md-4 col-lg d-flex justify-content-center align-items-center mb-4">
-    <img src="img/000029.png" class="img-fluid" alt="Michael Difeo Collaboration">
+  <div class="col d-flex justify-content-center align-items-center mb-4">
+    <img src="img/000029.png" class="img-fluid lightbox" alt="Michael Difeo Collaboration">
   </div>            
-  <div class="col-12 col-sm-6 col-md-4 col-lg d-flex justify-content-center align-items-center mb-4">
-    <img src="img/000030.png" class="img-fluid" alt="Michael Difeo Collaboration">
+  <div class="col d-flex justify-content-center align-items-center mb-4">
+    <img src="img/000030.png" class="img-fluid lightbox" alt="Michael Difeo Collaboration">
   </div>            
-  <div class="col-12 col-sm-6 col-md-4 col-lg d-flex justify-content-center align-items-center mb-4">
-    <img src="img/000031.png" class="img-fluid" alt="Michael Difeo Collaboration">
+  <div class="col d-flex justify-content-center align-items-center mb-4">
+    <img src="img/000031.png" class="img-fluid lightbox" alt="Michael Difeo Collaboration">
   </div>
-  <div class="col-12 col-sm-6 col-md-4 col-lg d-flex justify-content-center align-items-center mb-4">
-    <img src="img/000032.gif" class="img-fluid" alt="Michael Difeo Collaboration">
+  <div class="col d-flex justify-content-center align-items-center mb-4">
+    <img src="img/000032.gif" class="img-fluid lightbox" alt="Michael Difeo Collaboration">
   </div>
 </div>
         <div class="row">

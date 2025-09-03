@@ -29,22 +29,22 @@
 <div class="swatch-footer py-5" style="background-color:#f1f1f1;">
     <div class="container my-4 shadow-img">
         <div class="row mt-4">
-            <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col-md-2 col-4 d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000011.png" class="img-fluid lightbox" alt="Spring Collection">
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col-md-2 col-4 d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000013.png" class="img-fluid lightbox" alt="Spring Collection">
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col-md-2 col-4 d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000014.png" class="img-fluid lightbox" alt="Spring Collection">
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col-md-2 col-4 d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000015.png" class="img-fluid lightbox" alt="Spring Collection">
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col-md-2 col-4 d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000016.png" class="img-fluid lightbox" alt="Spring Collection">
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col-md-2 col-4 d-flex justify-content-center align-items-center mb-4">
                 <img src="img/spring_collection.gif" class="img-fluid lightbox" alt="Spring Collection">
             </div>
         </div>
