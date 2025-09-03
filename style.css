@@ -66,6 +66,9 @@ iframe {
     font-size:14px;
     font-weight: 300;
 }
+.lightbox{
+    cursor: pointer;
+}
 .basicLightbox{
     z-index: 2000 !important;
 }
