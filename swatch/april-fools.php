@@ -24,10 +24,10 @@
     </div>
 
     <div class="row pt-5">
-        <div class="col-lg-6">
+        <div class="col-6">
             <a href="swatch/this-is-a-test.php"><i class="bi bi-arrow-left"></i> THIS IS A TEST</a>
         </div>
-        <div class="col-lg-6 text-end">
+        <div class="col-6 text-end">
             <a href="swatch/ryan-art-walker.php">RYAN ART WALKER <i class="bi bi-arrow-right"></i></a>
         </div>
     </div>

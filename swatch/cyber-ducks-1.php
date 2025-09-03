@@ -53,10 +53,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-6">
                 <a href="swatch/in-homage.php"><i class="bi bi-arrow-left"></i> IN HOMAGE</a>
             </div>
-            <div class="col-lg-6 text-end">
+            <div class="col-6 text-end">
                 <a href="swatch/michael-difeo.php">MICHAEL DIFEO <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>

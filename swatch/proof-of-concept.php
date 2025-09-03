@@ -32,23 +32,23 @@
     <div class="container my-4 shadow-img">
         <div class="row mt-4">
             <div class="col-lg-3 col-md-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-                <img src="img/000017.gif" class="img-fluid" alt="Proof of Concept">
+                <img src="img/000017.gif" class="img-fluid lightbox" alt="Proof of Concept">
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-                <img src="img/000018.gif" class="img-fluid" alt="Proof of Concept">
+                <img src="img/000018.gif" class="img-fluid lightbox" alt="Proof of Concept">
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-                <img src="img/000019.gif" class="img-fluid" alt="Proof of Concept">
+                <img src="img/000019.gif" class="img-fluid lightbox" alt="Proof of Concept">
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
-                <img src="img/000020.gif" class="img-fluid" alt="Proof of Concept">
+                <img src="img/000020.gif" class="img-fluid lightbox" alt="Proof of Concept">
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-6">
                 <a href="swatch/gold-burst.php"><i class="bi bi-arrow-left"></i> GOLD BURST</a>
             </div>
-            <div class="col-lg-6 text-end">
+            <div class="col-6 text-end">
                 <a href="swatch/winand.php">WINAND <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>

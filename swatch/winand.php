@@ -23,10 +23,10 @@
     </div>
 
     <div class="row pt-5">
-        <div class="col-lg-6">
+        <div class="col-6">
             <a href="swatch/proof-of-concept.php"><i class="bi bi-arrow-left"></i> PROOF OF CONCEPT</a>
         </div>
-        <div class="col-lg-6 text-end">
+        <div class="col-6 text-end">
             <a href="swatch/secret-slainte.php">SECRET SLAINTE <i class="bi bi-arrow-right"></i></a>
         </div>
     </div>

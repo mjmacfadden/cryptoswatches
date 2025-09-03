@@ -84,7 +84,7 @@
         <div class="row mt-4 align-items-start">
                 <!-- Image column -->
                 <div class="col-12 col-sm-3 mb-3 mb-md-0 d-flex justify-content-center">
-                    <img src="img/000011.png" style="width:100%; max-width:414px;" alt="Crypto Swatch" title="000011" class="img-fluid">
+                    <img src="img/000011.png" style="width:100%; max-width:414px;" alt="Crypto Swatch" title="000011" class="img-fluid lightbox">
                 </div>
 
                 <!-- Text column -->
@@ -121,10 +121,10 @@
     </p>
 
     <div class="row pt-5">
-        <div class="col-lg-6">
+        <div class="col-6">
             <a href="index.php"><i class="bi bi-arrow-left"></i> HOME</a>
         </div>
-        <div class="col-lg-6 text-end">
+        <div class="col-6 text-end">
             <a href="swatch/spring-collection.php">SPRING COLLECTION <i class="bi bi-arrow-right"></i></a>
         </div>
     </div>

@@ -1,4 +1,18 @@
-document.getElementById('userInput').addEventListener('input', function () {
+//Lightbox
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll("img.lightbox").forEach(img => {
+    img.addEventListener("click", () => {
+      basicLightbox.create(`<img src="${img.src}" alt="">`).show()
+    })
+  })
+})
+
+
+//SEARCH
+const userInput = document.getElementById('userInput');
+
+if (userInput) { // Only run if the element exists
+  userInput.addEventListener('input', function () {
     const query = this.value.toLowerCase();
     const images = document.querySelectorAll('.row .col-lg-2');
 
@@ -6,7 +20,7 @@ document.getElementById('userInput').addEventListener('input', function () {
 
     images.forEach(col => {
       const img = col.querySelector('img');
-      const altText = img.getAttribute('alt').toLowerCase();
+      const altText = img ? img.getAttribute('alt').toLowerCase() : '';
 
       console.log('Image alt text:', altText); // Log the alt text being checked
 
@@ -18,6 +32,9 @@ document.getElementById('userInput').addEventListener('input', function () {
         console.log('Hiding:', altText); // Log when an image is hidden
       }
     });
-});
+  });
+}
+
 
 console.log('foo');
+

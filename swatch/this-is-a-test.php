@@ -22,10 +22,10 @@
         <p>If you scooped mint No. 11 during the five minute window that the drop was live, congrats! This crypto swatch is currently pretty rare. One more thing, while it does say, &ldquo;NOT FOR RESALE,&rdquo; we actually don&rsquo;t care if you resell it.</p>
     </div>
     <div class="row pt-5">
-        <div class="col-lg-6">
+        <div class="col-6">
             <a href="swatch/maiki-nft.php"><i class="bi bi-arrow-left"></i> MAIKI NFT</a>
         </div>
-        <div class="col-lg-6 text-end">
+        <div class="col-6 text-end">
             <a href="swatch/april-fools.php">THE 1ST OF APRIL <i class="bi bi-arrow-right"></i></a>
         </div>
     </div>

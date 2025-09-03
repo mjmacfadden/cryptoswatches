@@ -55,10 +55,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-6">
                 <a href="swatch/michael-difeo.php"><i class="bi bi-arrow-left"></i> MICHAEL DIFEO</a>
             </div>
-            <div class="col-lg-6 text-end">
+            <div class="col-6 text-end">
                 <a href="swatch/this-is-a-test.php">THIS IS A TEST <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
