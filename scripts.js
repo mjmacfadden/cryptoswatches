@@ -14,6 +14,7 @@ document.querySelectorAll('.col-lg-2 img').forEach(img => {
         img.setAttribute('title', altText);
     }
 });
+
 // FILTERS
 const allCols = document.querySelectorAll('.col-lg-2');
 
@@ -96,4 +97,22 @@ if (showOriginalsBtn) {
     });
 }
 
-    console.log('Script loaded');
+// SEARCH (use d-none for hiding)
+const userInput = document.getElementById('userInput');
+if (userInput) {
+    userInput.addEventListener('input', function () {
+        const query = this.value.toLowerCase();
+        allCols.forEach(col => {
+            const img = col.querySelector('img');
+            const altText = img ? img.getAttribute('alt').toLowerCase() : '';
+            const fileName = img ? img.src.split('/').pop().toLowerCase() : '';
+            // Show if alt text or file name includes query
+            col.classList.remove('d-none');
+            if (!altText.includes(query) && !fileName.includes(query)) {
+                col.classList.add('d-none');
+            }
+        });
+    });
+}
+
+console.log('Script loaded');
