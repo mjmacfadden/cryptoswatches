@@ -7,7 +7,7 @@
         <div class="d-flex justify-content-center align-items-center mb-4">
             <img src="img/000042.gif" class="img-fluid" alt="Winand">
         </div>
-        <a href="swatch/april-fools.php#swatch-description">
+        <a href="swatch/ryan-art-walker.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
         </a>
     </div>
@@ -36,13 +36,37 @@
         <p>如果你住在上海给我发微信 （wechat: ryanarthuwalker)</p>
         <div>If you live in Shanghai, send me a message on WeChat</div>
     </div>
+</div>
 
-    <div class="row pt-5">
-        <div class="col-6">
-            <a href="swatch/this-is-a-test.php"><i class="bi bi-arrow-left"></i> THIS IS A TEST</a>
+<div class="swatch-footer py-5" style="background-color:#f1f1f1;">
+    <div class="container my-4 shadow-img">
+        <div class="row mt-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000039.png" class="img-fluid lightbox" alt="Ryan Art Walker">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000040.gif" class="img-fluid lightbox" alt="Ryan Art Walker">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000041.png" class="img-fluid lightbox" alt="Ryan Art Walker">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000042.gif" class="img-fluid lightbox" alt="Ryan Art Walker">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000043.png" class="img-fluid lightbox" alt="Ryan Art Walker">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000044.gif" class="img-fluid lightbox" alt="Ryan Art Walker">
+            </div>
         </div>
-        <div class="col-6 text-end">
-            <a href="swatch/ryan-art-walker.php">RYAN ART WALKER <i class="bi bi-arrow-right"></i></a>
+        <div class="row">
+            <div class="col-6">
+                <a href="swatch/april-fools.php"><i class="bi bi-arrow-left"></i> THE 1ST OF APRIL</a>
+            </div>
+            <div class="col-6 text-end">
+                <a href="swatch/thee-hustle-house.php">THEE HUSTLE HOUSE <i class="bi bi-arrow-right"></i></a>
+            </div>
         </div>
     </div>
 </div>

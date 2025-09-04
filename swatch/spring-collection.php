@@ -7,7 +7,7 @@
         <div class="d-flex justify-content-center align-items-center mb-4">
             <img src="img/spring_collection.gif" class="img-fluid" alt="Spring Collection">
         </div>
-        <a href="swatch/proof-of-concept.php#swatch-description">
+        <a href="swatch/spring-collection.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
         </a>
     </div>

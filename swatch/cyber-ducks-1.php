@@ -7,7 +7,7 @@
         <div class="d-flex justify-content-center align-items-center mb-4">
             <img src="img/cyber-ducks-collaboration.png" style="max-width:747px; padding:100px 0;" class="img-fluid" alt="Cyber Ducks Collaboration">
         </div>
-        <a href="swatch/cyber-ducks.php#swatch-description">
+        <a href="swatch/cyber-ducks-1.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
         </a>
     </div>
@@ -39,16 +39,16 @@
 <div class="swatch-footer py-5" style="background-color:#f1f1f1;">
     <div class="container my-4 shadow-img">
         <div class="row mt-4">
-            <div class="col-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000024.gif" class="img-fluid lightbox" alt="Cyber Ducks">
             </div>
-            <div class="col-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000025.gif" class="img-fluid lightbox" alt="Cyber Ducks">
             </div>
-            <div class="col-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000026.gif" class="img-fluid lightbox" alt="Cyber Ducks">
             </div>
-            <div class="col-3 col-sm-6 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000027.gif" class="img-fluid lightbox" alt="Cyber Ducks">
             </div>
         </div>

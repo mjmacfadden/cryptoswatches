@@ -41,16 +41,16 @@
 <div class="swatch-footer py-5" style="background-color:#f1f1f1;">
     <div class="container my-4 shadow-img">
         <div class="row mt-4">
-            <div class="col-3 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000033.png" class="img-fluid lightbox" alt="Maiki NFT Collaboration">
             </div>
-            <div class="col-3 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000034.png" class="img-fluid lightbox" alt="Maiki NFT Collaboration">
             </div>
-            <div class="col-3 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000035.png" class="img-fluid lightbox" alt="Maiki NFT Collaboration">
             </div>
-            <div class="col-3 d-flex justify-content-center align-items-center mb-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
                 <img src="img/000036.gif" class="img-fluid lightbox" alt="Maiki NFT Collaboration">
             </div>
         </div>
