@@ -5,7 +5,7 @@
 <div class="swatch-hero py-5" style="background-color:#C8DBDC;">
     <div class="container my-4 shadow-img">
         <div class="d-flex justify-content-center align-items-center mb-4">
-            <img src="img/000042.gif" class="img-fluid" alt="Winand">
+            <img src="img/000042.gif" class="img-fluid" alt="Ryan Art Walker">
         </div>
         <a href="swatch/ryan-art-walker.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>

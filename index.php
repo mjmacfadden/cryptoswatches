@@ -250,21 +250,69 @@
         <img src="img/000044.gif" class="img-fluid show-collabs" alt="Ryan Art Walker">
       </a>
     </div>
-
-    <!-- ROW 3 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000048.php">
-        <img src="img/000048.png" class="img-fluid" alt="The Hustle House">
+      <a href="swatch/thee-hustle-house.php">
+        <img src="img/000045.png" class="img-fluid show-swatches" alt="Thee Hustle House">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000052.php">  
-        <img src="img/000052.gif" class="img-fluid" alt="The Derpy Cats">
+      <a href="swatch/thee-hustle-house.php">
+        <img src="img/000046.png" class="img-fluid show-swatches" alt="Thee Hustle House">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000057.php">
-        <img src="img/000057.gif" class="img-fluid" alt="Joe Chiappetta">
+      <a href="swatch/thee-hustle-house.php">
+        <img src="img/000047.png" class="img-fluid show-swatches" alt="Thee Hustle House">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thee-hustle-house.php">
+        <img src="img/000048.png" class="img-fluid show-collabs" alt="Thee Hustle House">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thederpycats.php">  
+        <img src="img/000049.png" class="img-fluid show-swatches" alt="The Derpy Cats">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thederpycats.php">  
+        <img src="img/000050.png" class="img-fluid show-swatches" alt="The Derpy Cats">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thederpycats.php">  
+        <img src="img/000051.png" class="img-fluid show-swatches" alt="The Derpy Cats">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thederpycats.php">  
+        <img src="img/000052.gif" class="img-fluid show-collabs" alt="The Derpy Cats">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/joe-chiappetta.php">
+        <img src="img/000053.png" class="img-fluid show-swatches" alt="Joe Chiappetta">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/joe-chiappetta.php">
+        <img src="img/000054.png" class="img-fluid show-swatches" alt="Joe Chiappetta">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/joe-chiappetta.php">
+        <img src="img/000055.png" class="img-fluid show-swatches" alt="Joe Chiappetta">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/joe-chiappetta.php">
+        <img src="img/000056.png" class="img-fluid show-collabs" alt="Joe Chiappetta">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/joe-chiappetta.php">
+        <img src="img/000057.gif" class="img-fluid show-collabs" alt="Joe Chiappetta">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
