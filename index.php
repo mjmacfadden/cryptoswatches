@@ -383,22 +383,52 @@
 
     <!-- ROW 4 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000073.php">
-        <img src="img/000073.png" class="img-fluid" alt="Crypto Pups">
+      <a href="swatch/cryptopups-world.php">
+        <img src="img/000071.png" class="img-fluid show-swatches" alt="Crypto Pups">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000076.php">  
-        <img src="img/000076.png" class="img-fluid" alt="enviroblocks">
+      <a href="swatch/cryptopups-world.php">
+        <img src="img/000072.png" class="img-fluid show-swatches" alt="Crypto Pups">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000079.php">
-        <img src="img/000079.png" class="img-fluid" alt="konceptonwax">
+      <a href="swatch/cryptopups-world.php">
+        <img src="img/000073.png" class="img-fluid show-collabs" alt="Crypto Pups">
+      </a>
+    </div>
+        <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/enviroblcks.php">  
+        <img src="img/000074.png" class="img-fluid show-swatches" alt="enviroblocks">
+      </a>
+    </div>
+        <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/enviroblcks.php">  
+        <img src="img/000075.png" class="img-fluid show-swatches" alt="enviroblocks">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000086.php">
+      <a href="swatch/enviroblcks.php">  
+        <img src="img/000076.png" class="img-fluid show-collabs" alt="enviroblocks">
+      </a>
+    </div>
+        <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/konceptonwax.php">
+        <img src="img/000077.png" class="img-fluid show-swatches" alt="konceptonwax">
+      </a>
+    </div>
+        <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/konceptonwax.php">
+        <img src="img/000078.png" class="img-fluid show-swatches" alt="konceptonwax">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/konceptonwax.php">
+        <img src="img/000079.png" class="img-fluid show-collabs" alt="konceptonwax">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/genesis-gradient-pack.php">
         <img src="img/000086.png" class="img-fluid" alt="Genesis Gradient Pack">
       </a>
     </div>
