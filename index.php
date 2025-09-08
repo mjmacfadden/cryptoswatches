@@ -316,18 +316,68 @@
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000061.php">
-        <img src="img/000061.png" class="img-fluid" alt="Krypto Galaxy">
+      <a href="swatch/kryptogalaxy.php">
+        <img src="img/000058.png" class="img-fluid show-swatches" alt="Krypto Galaxy">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/kryptogalaxy.php">
+        <img src="img/000059.png" class="img-fluid show-swatches" alt="Krypto Galaxy">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/kryptogalaxy.php">
+        <img src="img/000060.png" class="img-fluid show-swatches" alt="Krypto Galaxy">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/kryptogalaxy.php">
+        <img src="img/000061.png" class="img-fluid show-collabs" alt="Krypto Galaxy">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/the-nft-stamps.php">
+        <img src="img/000062.png" class="img-fluid show-swatches" alt="The NFT Stamps">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/the-nft-stamps.php">
+        <img src="img/000063.png" class="img-fluid show-swatches" alt="The NFT Stamps">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/the-nft-stamps.php">
+        <img src="img/000064.png" class="img-fluid show-swatches" alt="The NFT Stamps">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
       <a href="swatch/000065b.php">
-        <img src="img/000065.gif" class="img-fluid" alt="The NFT Stamps">
+        <img src="img/000065.gif" class="img-fluid show-collabs" alt="The NFT Stamps">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000070.php">
-        <img src="img/000070.png" class="img-fluid" alt="MJ">
+      <a href="swatch/mj.php">
+        <img src="img/000066.png" class="img-fluid show-swatches" alt="MJ">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/mj.php">
+        <img src="img/000067.png" class="img-fluid show-swatches" alt="MJ">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/mj.php">
+        <img src="img/000068.png" class="img-fluid show-swatches" alt="MJ">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/mj.php">
+        <img src="img/000069.png" class="img-fluid show-swatches" alt="MJ">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/mj.php">
+        <img src="img/000070.png" class="img-fluid show-collabs" alt="MJ">
       </a>
     </div>
 
