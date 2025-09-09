@@ -13,6 +13,10 @@ a{
 h1, h2, h3, h4, h5, h6{
     color:#333;
 }
+
+.text-light h2, #swatch-description .text-light h3{
+    color:#f1f1f1;
+}
 h1{
     font-weight:300;
     font-size:26px;
@@ -167,7 +171,6 @@ INTERNAL PAGE
     width:100%;
     max-width:414px;
 }
-
 /*
 ============================================
 NEFTY BLOCKS

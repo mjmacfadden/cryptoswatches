@@ -1,13 +1,12 @@
 <?php
-     $og_image = 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/-featured-img.jpg'; // Set before including header
+     $og_image = 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/genesis-gradient-pack-featured-img.jpg'; // Set before including header
     include '../header.php'; // Include header
 ?>
 <div class="swatch-hero position-relative" style="background-color:;">
   <div class="ratio ratio-16x9">
     <video autoplay muted loop playsinline poster="poster.jpg">
       <source src="vid/genesis-gradient-pack-opening.mp4" type="video/mp4">
-      Your browser does not support HTML5 video. 
-      <a href="videos/sample.mp4">Download the video</a>.
+      Your browser does not support HTML5 video.
     </video>
   </div>
 
@@ -95,7 +94,7 @@
                 <a href="swatch/konceptonwax.php"><i class="bi bi-arrow-left"></i> KONCEPTONWAX</a>
             </div>
             <div class="col-6 text-end">
-                <a href="swatch/cryptopups.php">CRYPTPUPS <i class="bi bi-arrow-right"></i></a>
+                <a href="swatch/victorysher.php">VICTORY SHER <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </div>
