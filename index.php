@@ -660,8 +660,43 @@
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000132.php">
-        <img src="img/000132.png" class="img-fluid" alt="TokenGirlsLV">
+      <a href="swatch/yoshi-drops.php">
+        <img src="img/000125.gif" class="img-fluid" alt="Yoshi Drops">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/token-girls-lv.php">
+        <img src="img/000126.png" class="img-fluid show-swatches" alt="TokenGirlsLV">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/token-girls-lv.php">
+        <img src="img/000127.png" class="img-fluid show-swatches" alt="TokenGirlsLV">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/token-girls-lv.php">
+        <img src="img/000128.png" class="img-fluid show-swatches" alt="TokenGirlsLV">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/token-girls-lv.php">
+        <img src="img/000129.png" class="img-fluid show-swatches" alt="TokenGirlsLV">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/token-girls-lv.php">
+        <img src="img/000130.png" class="img-fluid show-swatches" alt="TokenGirlsLV">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/token-girls-lv.php">
+        <img src="img/000131.png" class="img-fluid show-collabs" alt="TokenGirlsLV">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/token-girls-lv.php">
+        <img src="img/000132.png" class="img-fluid show-collabs" alt="TokenGirlsLV">
       </a>
     </div>
 
