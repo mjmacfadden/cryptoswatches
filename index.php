@@ -702,44 +702,164 @@
 
     <!-- ROW 6 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000133.php">
-        <img src="img/000133.png" class="img-fluid" alt="Happy 4th of July">
+      <a href="swatch/4th-of-july.php">
+        <img src="img/000133.png" class="img-fluid show-originals" alt="Happy 4th of July">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000137.php">  
-        <img src="img/000137.png" class="img-fluid" alt="Cartoon_Family1">
+      <a href="swatch/4th-of-july.php">
+        <img src="img/000134.png" class="img-fluid show-originals" alt="Happy 4th of July">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/00041.php">
-        <img src="img/000141.png" class="img-fluid" alt="CryptoFunk Bears">
+      <a href="swatch/cartoon-family1.php">  
+        <img src="img/000135.png" class="img-fluid show-swatches" alt="Cartoon_Family1">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000144.php">
-        <img src="img/000144.png" class="img-fluid" alt="FolksGrim">
+      <a href="swatch/cartoon-family1.php">  
+        <img src="img/000136.png" class="img-fluid show-swatches" alt="Cartoon_Family1">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000148.php">
-        <img src="img/000148.png" class="img-fluid" alt="ArtistByron">
+      <a href="swatch/cartoon-family1.php">  
+        <img src="img/000137.png" class="img-fluid show-collabs" alt="Cartoon_Family1">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000153.php">
-        <img src="img/000153.png" class="img-fluid" alt="iamoffroad">
+      <a href="swatch/cryptofunk-bears-1.php">
+        <img src="img/000138.png" class="img-fluid show-collabs" alt="CryptoFunk Bears">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cryptofunk-bears-1.php">
+        <img src="img/000139.png" class="img-fluid show-swatches" alt="CryptoFunk Bears">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cryptofunk-bears-1.php">
+        <img src="img/000140.png" class="img-fluid show-swatches" alt="CryptoFunk Bears">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cryptofunk-bears-11.php">
+        <img src="img/000141.png" class="img-fluid show-collabs" alt="CryptoFunk Bears">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cryptofunk-bears-1.php">
+        <img src="img/000142.png" class="img-fluid show-collabs" alt="CryptoFunk Bears">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cryptofunk-bears-1.php">
+        <img src="img/000143.gif" class="img-fluid show-collabs" alt="CryptoFunk Bears">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/folks-grim.php">
+        <img src="img/000144.png" class="img-fluid show-collabs" alt="FolksGrim">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/folks-grim.php">
+        <img src="img/000145.png" class="img-fluid show-swatches" alt="FolksGrim">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/folks-grim.php">
+        <img src="img/000146.png" class="img-fluid show-swatches" alt="FolksGrim">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/folks-grim.php">
+        <img src="img/000147.gif" class="img-fluid show-collabs" alt="FolksGrim">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artist-byron-1.php">
+        <img src="img/000148.png" class="img-fluid show-collabs" alt="ArtistByron">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artist-byron-1.php">
+        <img src="img/000149.png" class="img-fluid show-swatches" alt="ArtistByron">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artist-byron-1.php">
+        <img src="img/000150.png" class="img-fluid show-swatches" alt="ArtistByron">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artist-byron-1.php">
+        <img src="img/000151.gif" class="img-fluid show-collabs" alt="ArtistByron">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artist-byron-1.php">
+        <img src="img/000152.gif" class="img-fluid show-collabs" alt="ArtistByron">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/iamoffroad.php">
+        <img src="img/000153.png" class="img-fluid show-collabs" alt="I AM OFF ROAD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/iamoffroad.php">
+        <img src="img/000154.png" class="img-fluid show-swatches" alt="I AM OFF ROAD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/iamoffroad.php">
+        <img src="img/000155.png" class="img-fluid show-swatches" alt="I AM OFF ROAD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/iamoffroad.php">
+        <img src="img/000156.gif" class="img-fluid show-collabs" alt="I AM OFF ROAD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/iamoffroad.php">
+        <img src="img/000157.gif" class="img-fluid show-collabs" alt="I AM OFF ROAD">
       </a>
     </div>
 
     <!-- ROW 7 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000158.php">
-        <img src="img/000158.png" class="img-fluid" alt="Feltnerlii">
+      <a href="swatch/feltneriii.php">
+        <img src="img/000158.png" class="img-fluid show-collabs" alt="Feltnerlii">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000164.php">  
+      <a href="swatch/feltneriii.php">
+        <img src="img/000159.png" class="img-fluid show-swatches" alt="Feltnerlii">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/feltneriii.php">
+        <img src="img/000160.png" class="img-fluid show-swatches" alt="Feltnerlii">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/feltneriii.php">
+        <img src="img/000161.png" class="img-fluid show-collabs" alt="Feltnerlii">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/feltneriii.php">
+        <img src="img/000162.png" class="img-fluid show-collabs" alt="Feltnerlii">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/feltneriii.php">
+        <img src="img/000163.png" class="img-fluid show-originals" alt="Feltnerlii">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/tidbyts-1.php">  
         <img src="img/000164.png" class="img-fluid" alt="TIDBYTS">
       </a>
     </div>
