@@ -7,7 +7,7 @@
         <div class="d-flex justify-content-center align-items-center mb-4">
             <img src="img/000147.gif" class="img-fluid" alt="Folks Grim">
         </div>
-        <a href="swatch/folks-grim.php#swatch-description">
+        <a href="swatch/folks-grim-1.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
         </a>
     </div>

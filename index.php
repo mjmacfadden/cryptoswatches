@@ -995,7 +995,27 @@
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
       <a href="swatch/jack-of-hearts-nft.php">
-        <img src="img/000192.png" class="img-fluid" alt="JackOfHeartsNFTs">
+        <img src="img/000191.png" class="img-fluid show-collabs" alt="JackOfHeartsNFTs">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/jack-of-hearts-nft.php">
+        <img src="img/000192.png" class="img-fluid show-collabs" alt="JackOfHeartsNFTs">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/jack-of-hearts-nft.php">
+        <img src="img/000193.gif" class="img-fluid show-collabs" alt="JackOfHeartsNFTs">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/jack-of-hearts-nft.php">
+        <img src="img/000194.gif" class="img-fluid show-collabs" alt="JackOfHeartsNFTs">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/jack-of-hearts-nft.php">
+        <img src="img/000195.gif" class="img-fluid show-collabs" alt="JackOfHeartsNFTs">
       </a>
     </div>
 
