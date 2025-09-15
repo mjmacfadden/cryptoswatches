@@ -23,7 +23,8 @@ const filterBtns = [
     document.getElementById('show-all'),
     document.getElementById('show-collabs'),
     document.getElementById('show-swatches'),
-    document.getElementById('show-originals')
+    document.getElementById('show-originals'),
+    document.getElementById('show-featured')
 ];
 
 // Helper to update button styles
@@ -94,6 +95,16 @@ if (showOriginalsBtn) {
         filterByClass('show-originals');
         setActiveBtn(showOriginalsBtn);
         console.log('Originals button clicked');
+    });
+}
+
+// FEATURED button
+const showFeaturedBtn = document.getElementById('show-featured');
+if (showFeaturedBtn) {
+    showFeaturedBtn.addEventListener('click', function() {
+        filterByClass('show-featured');
+        setActiveBtn(showFeaturedBtn);
+        console.log('Featured button clicked');
     });
 }
 
