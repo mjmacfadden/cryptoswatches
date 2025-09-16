@@ -1256,50 +1256,200 @@
 
     <!-- ROW 10 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000247.php">
-        <img src="img/000247.png" class="img-fluid" alt="INTO THE SUNSET">
+      <a href="swatch/into-the-sunset.php">
+        <img src="img/000245.png" class="img-fluid show-featured show-original" alt="INTO THE SUNSET">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000250.php">  
-        <img src="img/000250.png" class="img-fluid" alt="NEON TURKEY">
+      <a href="swatch/into-the-sunset.php">
+        <img src="img/000246.png" class="img-fluid show-featured show-swatches" alt="INTO THE SUNSET">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000253.php">
-        <img src="img/000253.png" class="img-fluid" alt="bretblackberg">
+      <a href="swatch/into-the-sunset.php">
+        <img src="img/000247.png" class="img-fluid show-featured show-original" alt="INTO THE SUNSET">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000257.php">
-        <img src="img/000257.png" class="img-fluid show-originals" alt="TO THE MOON">
+      <a href="swatch/neon-turkey.php">  
+        <img src="img/000248.png" class="img-fluid show-swatches" alt="NEON TURKEY">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000259.php">
-        <img src="img/000259.png" class="img-fluid" alt="ARCTIC GNOME">
+      <a href="swatch/neon-turkey.php">  
+        <img src="img/000249.png" class="img-fluid show-originals" alt="NEON TURKEY">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000262.php">
-        <img src="img/000262.png" class="img-fluid" alt="AstroKutyz">
+      <a href="swatch/neon-turkey.php">  
+        <img src="img/000250.png" class="img-fluid show-featured show-originals" alt="NEON TURKEY">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bret-blackberg.php">
+        <img src="img/000251.png" class="img-fluid show-collabs" alt="bretblackberg">
+      </a>
+    </div>
+        <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bret-blackberg.php">
+        <img src="img/000252.png" class="img-fluid show-swatches" alt="bretblackberg">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bret-blackberg.php">
+        <img src="img/000253.png" class="img-fluid show-featured show-collabs" alt="bretblackberg">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bret-blackberg.php">
+        <img src="img/000254.gif" class="img-fluid show-collabs" alt="bretblackberg">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/to-the-moon.php">
+        <img src="img/000255.png" class="img-fluid show-originals" alt="TO THE MOON">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/to-the-moon.php">
+        <img src="img/000256.png" class="img-fluid show-swatches" alt="TO THE MOON">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/to-the-moon.php">
+        <img src="img/000257.png" class="img-fluid show-originals show-featured" alt="TO THE MOON">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/to-the-moon.php">
+        <img src="img/000258.gif" class="img-fluid show-originals" alt="TO THE MOON">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/arctic-gnomes.php">
+        <img src="img/000259.png" class="img-fluid show-featured show-originals" alt="ARCTIC GNOME">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/arctic-gnomes.php">
+        <img src="img/000260.png" class="img-fluid show-originals" alt="ARCTIC GNOME">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/arctic-gnomes.php">
+        <img src="img/000261.png" class="img-fluid show-originals" alt="ARCTIC GNOME">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/astrokutyz.php">
+        <img src="img/000262.png" class="img-fluid show-featured show-collabs" alt="AstroKutyz">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/astrokutyz.php">
+        <img src="img/000263.png" class="img-fluid show-swatches show-collabs" alt="AstroKutyz">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/astrokutyz.php">
+        <img src="img/000264.gif" class="img-fluid show-collabs" alt="AstroKutyz">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/astrokutyz.php">
+        <img src="img/000265.gif" class="img-fluid show-collabs" alt="AstroKutyz">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/arctic-gnomes.php">
+        <img src="img/000266.png" class="img-fluid show-originals" alt="ARCTIC GNOME">
       </a>
     </div>
 
     <!-- ROW 11 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000270.php">
-        <img src="img/000270.png" class="img-fluid" alt="SANTA'S HERD">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000267.png" class="img-fluid show-originals" alt="SANTA'S HERD">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000281.php">  
-        <img src="img/000281.png" class="img-fluid" alt="CyberDucksNFT">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000268.png" class="img-fluid show-swatches" alt="SANTA'S HERD">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000285.php">
-        <img src="img/000285.png" class="img-fluid" alt="KryptoKumas">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000269.png" class="img-fluid show-swatches" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000270.png" class="img-fluid show-featured show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000271.png" class="img-fluid show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000272.png" class="img-fluid show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000273.png" class="img-fluid show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000274.gif" class="img-fluid show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000275.png" class="img-fluid show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000276.png" class="img-fluid show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000277.png" class="img-fluid show-originals" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/santas-herd.php">
+        <img src="img/000278.png" class="img-fluid show-collabs" alt="SANTA'S HERD">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyber-ducks-2.php">  
+        <img src="img/000279.png" class="img-fluid show-collabs" alt="CyberDucksNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyber-ducks-2.php">  
+        <img src="img/000280.png" class="img-fluid show-swatches" alt="CyberDucksNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyber-ducks-2.php">  
+        <img src="img/000281.png" class="img-fluid show-featured show-collabs" alt="CyberDucksNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyber-ducks-2.php">  
+        <img src="img/000282.gif" class="img-fluid show-collabs" alt="CyberDucksNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/krypto-kumas.php">
+        <img src="img/000285.png" class="img-fluid show-featured show-collabs" alt="KryptoKumas">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">

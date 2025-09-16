@@ -5,7 +5,7 @@
 <div class="swatch-hero py-2" style="background-color:#AA56CE;">
     <div class="container mb-4">
         <div class="d-flex justify-content-center align-items-center mb-4">
-            <img src="img/tidbyts-pack.png" class="img-fluid" alt="Armies of Pwer" style="max-width:500px;">
+            <img src="img/tidbyts-pack.png" class="img-fluid" alt="Tidbyts" style="max-width:500px;">
         </div>
         <a href="swatch/tidbyts-1.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
