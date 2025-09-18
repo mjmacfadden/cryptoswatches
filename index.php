@@ -1645,7 +1645,7 @@
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
       <a href="swatch/senor-lupe.php">
-        <img src="img/000322.gif" class="img-fluid show-collabs" show-featured"" alt="señorLUPE">
+        <img src="img/000322.gif" class="img-fluid show-collabs show-featured" alt="señorLUPE">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
