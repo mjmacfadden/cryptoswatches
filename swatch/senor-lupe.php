@@ -5,7 +5,7 @@
 <div class="swatch-hero py-5" style="background-color:#54FDF6;">
     <div class="container my-4 shadow-img">
         <div class="d-flex justify-content-center align-items-center mb-4">
-            <img src="img/000320.png" class="img-fluid" alt="">
+            <img src="img/000320.png" class="img-fluid" alt="Señor Lupe">
         </div>
         <a href="swatch/senor-lupe.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
