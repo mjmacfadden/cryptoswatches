@@ -2087,30 +2087,124 @@
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000409.php">
-        <img src="img/000409.png" class="img-fluid" alt="MammothMythics">
+      <a href="swatch/mammothmythics.php">
+        <img src="img/000407.png" class="img-fluid show-collabs" alt="MammothMythics">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000413.php">
-        <img src="img/000413.png" class="img-fluid" alt="AZer0c00LArt">
+      <a href="swatch/mammothmythics.php">
+        <img src="img/000408.png" class="img-fluid show-swatches" alt="MammothMythics">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000417.php">
-        <img src="img/000417.png" class="img-fluid" alt="TheDuckles">
+      <a href="swatch/mammothmythics.php">
+        <img src="img/000409.png" class="img-fluid show-collabs show-featured" alt="MammothMythics">
       </a>
     </div>
-    
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/mammothmythics.php">
+        <img src="img/000410.gif" class="img-fluid show-collabs" alt="MammothMythics">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/azer0c00art.php">
+        <img src="img/000411.png" class="img-fluid show-collabs" alt="AZer0c00LArt">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/azer0c00art.php">
+        <img src="img/000412.png" class="img-fluid show-swatches" alt="AZer0c00LArt">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/azer0c00art.php">
+        <img src="img/000413.png" class="img-fluid show-collabs show-featured" alt="AZer0c00LArt">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/azer0c00art.php">
+        <img src="img/000414.gif" class="img-fluid show-collabs" alt="AZer0c00LArt">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/theduckles.php">
+        <img src="img/000415.png" class="img-fluid show-collabs" alt="TheDuckles">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/theduckles.php">
+        <img src="img/000416.png" class="img-fluid show-swatches" alt="TheDuckles">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/theduckles.php">
+        <img src="img/000417.png" class="img-fluid show-collabs show-featured" alt="TheDuckles">
+      </a>
+    </div>
+        <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/theduckles.php">
+        <img src="img/000418.gif" class="img-fluid show-collabs" alt="TheDuckles">
+      </a>
+    </div>
     <!-- ROW 16 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000421.php">
-        <img src="img/000421.png" class="img-fluid" alt="kaosmoon_circle">
+      <a href="swatch/kaosmoon_circle.php">
+        <img src="img/000419.png" class="img-fluid show-collabs" alt="kaosmoon_circle">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000429.php">  
-        <img src="img/000429.png" class="img-fluid" alt="maiki_NFT">
+      <a href="swatch/kaosmoon_circle.php">
+        <img src="img/000420.png" class="img-fluid show-swatches" alt="kaosmoon_circle">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/kaosmoon_circle.php">
+        <img src="img/000421.png" class="img-fluid show-collabs show-featured" alt="kaosmoon_circle">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/kaosmoon_circle.php">
+        <img src="img/000422.gif" class="img-fluid show-collabs" alt="kaosmoon_circle">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/esthetic_monte.php">
+        <img src="img/000423.png" class="img-fluid show-collabs" alt="Esthetic_Monte">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/esthetic_monte.php">
+        <img src="img/000424.png" class="img-fluid show-swatches" alt="Esthetic_Monte">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/esthetic_monte.php">
+        <img src="img/000425.png" class="img-fluid show-collabs show-featured" alt="Esthetic_Monte">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/esthetic_monte.php">
+        <img src="img/000426.gif" class="img-fluid show-collabs" alt="Esthetic_Monte">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/maiki-nft-2.php">  
+        <img src="img/000427.png" class="img-fluid show-collabs" alt="maiki_NFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/maiki-nft-2.php">  
+        <img src="img/000428.png" class="img-fluid show-swatches" alt="maiki_NFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/maiki-nft-2.php">  
+        <img src="img/000429.png" class="img-fluid show-collabs show-featured" alt="maiki_NFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/maiki-nft-2.php">  
+        <img src="img/000430.gif" class="img-fluid show-collabs" alt="maiki_NFT">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
@@ -2119,114 +2213,475 @@
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000434.php">
-        <img src="img/000434.png" class="img-fluid" alt="WallaceTallman">
+      <a href="swatch/wallace-tallman.php">
+        <img src="img/000432.png" class="img-fluid show-originals show-collabs" alt="WallaceTallman">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000438.php">
-        <img src="img/000438.png" class="img-fluid" alt="galeria_nft">
+      <a href="swatch/wallace-tallman.php">
+        <img src="img/000433.png" class="img-fluid show-swatches" alt="WallaceTallman">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000443.php">
-        <img src="img/000443.png" class="img-fluid" alt="thechairunivers">
+      <a href="swatch/wallace-tallman.php">
+        <img src="img/000434.png" class="img-fluid show-originals show-collabs" alt="WallaceTallman">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/wallace-tallman.php">
+        <img src="img/000435.gif" class="img-fluid show-originals show-collabs" alt="WallaceTallman">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000436.png" class="img-fluid show-collabs" alt="galeria_nft">
+      </a>
+    </div>    
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000437.png" class="img-fluid show-swatches" alt="galeria_nft">
+      </a>
+    </div>    
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000438.png" class="img-fluid show-collabs show-featured" alt="galeria_nft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000439.gif" class="img-fluid show-collabs" alt="galeria_nft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000440.gif" class="img-fluid show-collabs" alt="galeria_nft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thechairuniverse.php">
+        <img src="img/000441.png" class="img-fluid show-collabs" alt="thechairunivers">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thechairuniverse.php">
+        <img src="img/000442.png" class="img-fluid show-swatches" alt="thechairunivers">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thechairuniverse.php">
+        <img src="img/000443.png" class="img-fluid show-collabs show-featured" alt="thechairunivers">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/thechairuniverse.php">
+        <img src="img/000444.gif" class="img-fluid show-collabs" alt="thechairunivers">
       </a>
     </div>
 
     <!-- ROW 16 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000447.php">
-        <img src="img/000447.png" class="img-fluid" alt="Muenstervision">
+      <a href="swatch/muenstervision.php">
+        <img src="img/000445.png" class="img-fluid show-collabs" alt="Muenstervision">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000455.php">  
-        <img src="img/000455.png" class="img-fluid" alt="rapperjrgnft">
+      <a href="swatch/muenstervision.php">
+        <img src="img/000446.png" class="img-fluid show-swatches" alt="Muenstervision">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000459.php">
-        <img src="img/000459.png" class="img-fluid" alt="wtmacfadden">
+      <a href="swatch/muenstervision.php">
+        <img src="img/000447.png" class="img-fluid show-collabs show-featured" alt="Muenstervision">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000463.php">
-        <img src="img/000463.png" class="img-fluid" alt="CyanideArts">
+      <a href="swatch/muenstervision.php">
+        <img src="img/000448.gif" class="img-fluid show-collabs" alt="Muenstervision">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000471.php">
-        <img src="img/000471.png" class="img-fluid" alt="Dogefellasgame">
+      <a href="swatch/catfreshent.php">
+        <img src="img/000449.png" class="img-fluid show-collabs" alt="CatFreshEnt">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000475.php">
-        <img src="img/000475.png" class="img-fluid" alt="BITCOIN BEAR">
+      <a href="swatch/catfreshent.php">
+        <img src="img/000450.png" class="img-fluid show-swatches" alt="CatFreshEnt">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/catfreshent.php">
+        <img src="img/000451.png" class="img-fluid show-collabs show-originals" alt="CatFreshEnt">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/catfreshent.php">
+        <img src="img/000452.gif" class="img-fluid show-collabs" alt="CatFreshEnt">
+      </a>
+    </div>
+
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/rapperjrgnft.php">  
+        <img src="img/000453.png" class="img-fluid show-collabs" alt="rapperjrgnft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/rapperjrgnft.php">  
+        <img src="img/000454.png" class="img-fluid show-swatches" alt="rapperjrgnft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/rapperjrgnft.php">  
+        <img src="img/000455.png" class="img-fluid show-collabs show-featured" alt="rapperjrgnft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/rapperjrgnft.php">  
+        <img src="img/000456.gif" class="img-fluid show-collabs" alt="rapperjrgnft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/wtmacfadden.php">
+        <img src="img/000457.png" class="img-fluid show-collabs" alt="wtmacfadden">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/wtmacfadden.php">
+        <img src="img/000458.gif" class="img-fluid show-swatches" alt="wtmacfadden">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/wtmacfadden.php">
+        <img src="img/000459.png" class="img-fluid show-collabs show-featured" alt="wtmacfadden">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/wtmacfadden.php">
+        <img src="img/000460.gif" class="img-fluid show-collabs" alt="wtmacfadden">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyanidearts.php">
+        <img src="img/000461.png" class="img-fluid show-collabs" alt="CyanideArts">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyanidearts.php">
+        <img src="img/000462.png" class="img-fluid show-swatches" alt="CyanideArts">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyanidearts.php">
+        <img src="img/000463.png" class="img-fluid show-collabs show-featured" alt="CyanideArts">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/cyanidearts.php">
+        <img src="img/000464.gif" class="img-fluid show-collabs" alt="CyanideArts">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/eric_mindmaster.php">
+        <img src="img/000465.png" class="img-fluid show-collabs" alt="Eric_MindMaster">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/eric_mindmaster.php">
+        <img src="img/000466.png" class="img-fluid show-swatches" alt="Eric_MindMaster">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/eric_mindmaster.php">
+        <img src="img/000467.png" class="img-fluid show-collabs" alt="Eric_MindMaster">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/eric_mindmaster.php">
+        <img src="img/000468.gif" class="img-fluid show-collabs" alt="Eric_MindMaster">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/dogefellasgame.php">
+        <img src="img/000469.png" class="img-fluid show-collabs" alt="Dogefellasgame">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/dogefellasgame.php">
+        <img src="img/000470.png" class="img-fluid show-swatches" alt="Dogefellasgame">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/dogefellasgame.php">
+        <img src="img/000471.png" class="img-fluid show-collabs show-featured" alt="Dogefellasgame">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/dogefellasgame.php">
+        <img src="img/000472.gif" class="img-fluid show-collabs" alt="Dogefellasgame">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bitcoin-bear.php">
+        <img src="img/000473.png" class="img-fluid show-originals" alt="BITCOIN BEAR">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bitcoin-bear.php">
+        <img src="img/000474.png" class="img-fluid show-swatches" alt="BITCOIN BEAR">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bitcoin-bear.php">
+        <img src="img/000475.png" class="img-fluid show-originals" alt="BITCOIN BEAR">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/bitcoin-bear.php">
+        <img src="img/000476.gif" class="img-fluid show-originals" alt="BITCOIN BEAR">
       </a>
     </div>
 
     <!-- ROW 17 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000479.php">
-        <img src="img/000479.png" class="img-fluid" alt="The CryptoFunk Bears">
+      <a href="swatch/cryptofunk-bears-2.php">
+        <img src="img/000477.png" class="img-fluid show-collabs" alt="The CryptoFunk Bears">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000483.php">  
-        <img src="img/000483.png" class="img-fluid" alt="GiantGiraffeNFT">
+      <a href="swatch/cryptofunk-bears-2.php">
+        <img src="img/000478.png" class="img-fluid show-swatches" alt="The CryptoFunk Bears">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000487.php">
-        <img src="img/000487.png" class="img-fluid" alt="SaduOne">
+      <a href="swatch/cryptofunk-bears-2.php">
+        <img src="img/000479.png" class="img-fluid show-collabs show-featured" alt="The CryptoFunk Bears">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000491.php">
-        <img src="img/000491.png" class="img-fluid" alt="skatecoinwax">
+      <a href="swatch/cryptofunk-bears-2.php">
+        <img src="img/000480.gif" class="img-fluid show-collabs" alt="The CryptoFunk Bears">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000495.php">
-        <img src="img/000495.png" class="img-fluid" alt="QuasimanNFT">
+      <a href="swatch/giantgiraffenft.php">  
+        <img src="img/000481.png" class="img-fluid show-collabs" alt="GiantGiraffeNFT">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000499.php">
-        <img src="img/000499.png" class="img-fluid" alt="MOON LADDER">
+      <a href="swatch/giantgiraffenft.php">  
+        <img src="img/000482.png" class="img-fluid show-swatches" alt="GiantGiraffeNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/giantgiraffenft.php">  
+        <img src="img/000483.png" class="img-fluid show-collabs" alt="GiantGiraffeNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/giantgiraffenft.php">  
+        <img src="img/000484.gif" class="img-fluid show-collabs" alt="GiantGiraffeNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/saduone.php">
+        <img src="img/000485.png" class="img-fluid show-collabs" alt="SaduOne">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/saduone.php">
+        <img src="img/000486.png" class="img-fluid show-swatches" alt="SaduOne">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/saduone.php">
+        <img src="img/000487.png" class="img-fluid show-collabs show-featured" alt="SaduOne">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/saduone.php">
+        <img src="img/000488.gif" class="img-fluid show-collabs" alt="SaduOne">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/skatecoinwax.php">
+        <img src="img/000489.png" class="img-fluid show-collabs" alt="skatecoinwax">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/skatecoinwax.php">
+        <img src="img/000490.png" class="img-fluid show-swatches" alt="skatecoinwax">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/skatecoinwax.php">
+        <img src="img/000491.png" class="img-fluid show-collabs show-featured" alt="skatecoinwax">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/skatecoinwax.php">
+        <img src="img/000492.gif" class="img-fluid show-collabs" alt="skatecoinwax">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/quasimannft.php">
+        <img src="img/000493.png" class="img-fluid show-collabs" alt="QuasimanNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/quasimannft.php">
+        <img src="img/000494.png" class="img-fluid show-swatches" alt="QuasimanNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/quasimannft.php">
+        <img src="img/000495.png" class="img-fluid show-collabs show-featured" alt="QuasimanNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/quasimannft.php">
+        <img src="img/000496.gif" class="img-fluid show-collabs" alt="QuasimanNFT">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/moon-ladder.php">
+        <img src="img/000497.png" class="img-fluid show-originals" alt="MOON LADDER">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/moon-ladder.php">
+        <img src="img/000498.png" class="img-fluid show-swatches" alt="MOON LADDER">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/moon-ladder.php">
+        <img src="img/000499.png" class="img-fluid show-originals show-featured" alt="MOON LADDER">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/moon-ladder.php">
+        <img src="img/000500.gif" class="img-fluid show-originals" alt="MOON LADDER">
       </a>
     </div>
 
     <!-- ROW 18 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000503.php">
-        <img src="img/000503.png" class="img-fluid" alt="GALERIA_NFT">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000501.png" class="img-fluid show-collabs" alt="GALERIA_NFT">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000507.php">  
-        <img src="img/000507.png" class="img-fluid" alt="Crackers832">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000502.png" class="img-fluid show-swathes" alt="GALERIA_NFT">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000511.php">
-        <img src="img/000511.png" class="img-fluid" alt="ArtsofClarke">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000503.png" class="img-fluid show-collabs" alt="GALERIA_NFT">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000515.php">
-        <img src="img/000515.png" class="img-fluid" alt="beedenft">
+      <a href="swatch/galeria_nft.php">
+        <img src="img/000504.gif" class="img-fluid show-collabs" alt="GALERIA_NFT">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000519.php">
-        <img src="img/000519.png" class="img-fluid" alt="troysartwork">
+      <a href="swatch/crackers832.php">  
+        <img src="img/000505.png" class="img-fluid show-collabs" alt="Crackers832">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/000523.php">
-        <img src="img/000523.png" class="img-fluid" alt="KARATE CACTUS">
+      <a href="swatch/crackers832.php">  
+        <img src="img/000506.png" class="img-fluid show-swatches" alt="Crackers832">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/crackers832.php">  
+        <img src="img/000507.png" class="img-fluid show-collabs show-featured" alt="Crackers832">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/crackers832.php">  
+        <img src="img/000508.gif" class="img-fluid show-collabs" alt="Crackers832">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artsofclarke.php">
+        <img src="img/000509.png" class="img-fluid show-collabs" alt="ArtsofClarke">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artsofclarke.php">
+        <img src="img/000510.png" class="img-fluid show-swatches" alt="ArtsofClarke">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artsofclarke.php">
+        <img src="img/000511.png" class="img-fluid show-collabs show-featured" alt="ArtsofClarke">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/artsofclarke.php">
+        <img src="img/000512.gif" class="img-fluid show-collabs" alt="ArtsofClarke">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/beedenft.php">
+        <img src="img/000513.png" class="img-fluid show-collabs" alt="beedenft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/beedenft.php">
+        <img src="img/000514.png" class="img-fluid show-swatches" alt="beedenft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/beedenft.php">
+        <img src="img/000515.png" class="img-fluid show-collabs show-featured" alt="beedenft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/beedenft.php">
+        <img src="img/000516.gif" class="img-fluid show-collabs" alt="beedenft">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/troysartwork.php">
+        <img src="img/000517.png" class="img-fluid show-collabs" alt="troysartwork">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/troysartwork.php">
+        <img src="img/000518.png" class="img-fluid show-swathes" alt="troysartwork">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/troysartwork.php">
+        <img src="img/000519.png" class="img-fluid show-collabs" alt="troysartwork">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/troysartwork.php">
+        <img src="img/000520.gif" class="img-fluid show-collabs" alt="troysartwork">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/karate-cactus.php">
+        <img src="img/000521.png" class="img-fluid show-originals" alt="KARATE CACTUS">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/karate-cactus.php">
+        <img src="img/000522.png" class="img-fluid show-swatches" alt="KARATE CACTUS">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/karate-cactus.php">
+        <img src="img/000523.png" class="img-fluid show-originals" alt="KARATE CACTUS">
+      </a>
+    </div>
+    <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
+      <a href="swatch/karate-cactus.php">
+        <img src="img/000524.gif" class="img-fluid show-originals" alt="KARATE CACTUS">
       </a>
     </div>
   </div>
