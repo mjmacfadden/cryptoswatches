@@ -1731,27 +1731,27 @@
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/bunyonworld.php">
+      <a href="swatch/bunnyonworld.php">
         <img src="img/000339.png" class="img-fluid show-collabs" alt="BunnyonWorld">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/bunyonworld.php">
+      <a href="swatch/bunnyonworld.php">
         <img src="img/000340.png" class="img-fluid show-swatches" alt="BunnyonWorld">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/bunyonworld.php">
+      <a href="swatch/bunnyonworld.php">
         <img src="img/000341.png" class="img-fluid show-collabs show-featured" alt="BunnyonWorld">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/bunyonworld.php">
+      <a href="swatch/bunnyonworld.php">
         <img src="img/000342.gif" class="img-fluid show-collabs" alt="BunnyonWorld">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/bunyonworld.php">
+      <a href="swatch/bunnyonworld.php">
         <img src="img/000343.gif" class="img-fluid show-collabs" alt="BunnyonWorld">
       </a>
     </div>
@@ -1920,22 +1920,22 @@
     </div>
     <!-- ROW 15 -->
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/gamezexi.php">
+      <a href="swatch/gamezexie.php">
         <img src="img/000374.jpg" class="img-fluid show-collabs" alt="Gamezexie">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/gamezexi.php">
+      <a href="swatch/gamezexie.php">
         <img src="img/000375.png" class="img-fluid show-swatches" alt="Gamezexie">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/gamezexi.php">
+      <a href="swatch/gamezexie.php">
         <img src="img/000376.png" class="img-fluid show-collabs show-featured" alt="Gamezexie">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/gamezexi.php">
+      <a href="swatch/gamezexie.php">
         <img src="img/000377.gif" class="img-fluid show-collabs" alt="Gamezexie">
       </a>
     </div>
@@ -2258,22 +2258,22 @@
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/thechairuniverse.php">
+      <a href="swatch/thechairunivers.php">
         <img src="img/000441.png" class="img-fluid show-collabs" alt="thechairunivers">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/thechairuniverse.php">
+      <a href="swatch/thechairunivers.php">
         <img src="img/000442.png" class="img-fluid show-swatches" alt="thechairunivers">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/thechairuniverse.php">
+      <a href="swatch/thechairunivers.php">
         <img src="img/000443.png" class="img-fluid show-collabs show-featured" alt="thechairunivers">
       </a>
     </div>
     <div class="col-lg-2 col-md-4 col-4 d-flex justify-content-center align-items-center mb-4">
-      <a href="swatch/thechairuniverse.php">
+      <a href="swatch/thechairunivers.php">
         <img src="img/000444.gif" class="img-fluid show-collabs" alt="thechairunivers">
       </a>
     </div>

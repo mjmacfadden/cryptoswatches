@@ -1,0 +1,83 @@
+<?php
+     $og_image = 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/dogefellasgame-featured-img.png'; // Set before including header
+    include '../header.php'; // Include header
+?>
+<div class="swatch-hero py-5" style="background-color:#4F7491;">
+    <div class="container my-4 shadow-img">
+        <div class="d-flex justify-content-center align-items-center mb-4">
+            <img src="img/000471.png" class="img-fluid" alt="">
+        </div>
+        <a href="swatch/dogefellasgame.php#swatch-description">
+            <i class="bi bi-chevron-double-down"></i>
+        </a>
+    </div>
+</div>
+
+<div class="container my-4 shadow-img">
+    <div class="row mt-4 pb-5" id="swatch-description">
+        <h1>DOGEFELLASGAME</h1>
+        <h4>by Michael Macfadden</h4>
+        <ul>
+        <li>
+        <p><strong>Please introduce yourself to our readers.</strong></p>
+        <p>Dogefellas is a social espionage, mafia themed play to own game on the WAX blockchain. I&rsquo;m Aaron from Dogefellas, I live in Canada, and I&rsquo;m one of the Co-Founders of the project, Chris is from the UK and Atila is from Turkey. We&rsquo;re the team who&rsquo;s building the game.</p>
+        <p><strong>What was the inspiration for this piece?</strong></p>
+        <p>We started the game with the initial idea of making a BSC shitcoin, but as soon as we had the art and concept drawn up, we realized we had the opportunity to make it something way bigger than we had initially thought about. Now, we&rsquo;re building the game we want to play, with the focus long term on making a game that people play because it&rsquo;s fun, and rewarding, instead of just another defi game.</p>
+        <p><strong>How long have you been creating in the digital realm?</strong></p>
+        <p>We started creating Dogefellas just over a year ago now, I&rsquo;d done a bit of mucking about as a creator before that, but not much.</p>
+        <p><strong>Can you tell us about your workflow?</strong></p>
+        <p>We use a bit of everything! Chris mainly uses Photoshop and animator, and Atila builds in Unity, and React. I just talk to people mainly, and make sure the guys have what they need to work their magic.</p>
+        <p><strong>Who are your artistic influences?</strong></p>
+        <p>The name is a cross play between Doge and Goodfellas, so that&rsquo;s reflected in all the art and aestetic. Lots of historical references based on the 1920s era in New York City get mixed up with a healthy dose of Adult Swim style and humor as well.</p>
+        <p><strong>What got you interested in NFTs/Crypto Art/Digital Collectibles?</strong></p>
+        <p>I&rsquo;ve been in crypto for years, and gaming for my whole life, so this was a really natural transition for me. Once I really started seeing what NFTs could do, I was in, and I&rsquo;ve always been interested in game design, so this was the opportunity to make that happen.</p>
+        <p><strong>Where can we find you online?</strong></p>
+        <ul>
+        <li>Our game is based on WAX, so drops for the founder&rsquo;s coins and collab characters will all be done on:&nbsp;<a href="https://neftyblocks.com/c/dogefellasgm">https://neftyblocks.com/c/dogefellasgm</a></li>
+        <li><strong>Twitter:</strong>&nbsp;<a href="https://twitter.com/Dogefellasgame">https://twitter.com/Dogefellasgame</a></li>
+        <li><strong>Discord:</strong>&nbsp;<a title="https://discord.gg/pD79EJb5ED" href="https://discord.gg/pD79EJb5ED" target="_blank" rel="noopener">https://discord.gg/pD79EJb5ED</a></li>
+        <li><strong>Website:</strong>&nbsp;<a title="https://www.dogefellas.io/" href="https://www.dogefellas.io/" target="_blank" rel="noopener">https://www.dogefellas.io/</a></li>
+        <li><strong>dApp / Game:</strong>&nbsp;<a title="https://app.dogefellas.io/" href="https://app.dogefellas.io/" target="_blank" rel="noopener">https://app.dogefellas.io/</a></li>
+        <li><strong>Instagram:</strong>&nbsp;<a title="https://www.instagram.com/dogefellasgame/" href="https://www.instagram.com/dogefellasgame/" target="_blank" rel="noopener">https://www.instagram.com/dogefellasgame/</a></li>
+        <li><strong>YouTube:</strong>&nbsp;<a title="https://www.youtube.com/channel/UC0jTsrTH_Gw45hzQFyCb9DA" href="https://www.youtube.com/channel/UC0jTsrTH_Gw45hzQFyCb9DA" target="_blank" rel="noopener">https://www.youtube.com/channel/UC0jTsrTH_Gw45hzQFyCb9DA</a></li>
+        <li><strong>Tiktok:</strong>&nbsp;<a title="https://www.tiktok.com/@dogefellas" href="https://www.tiktok.com/@dogefellas" target="_blank" rel="noopener">https://www.tiktok.com/@dogefellas</a></li>
+        </ul>
+        <p><strong>Anything else you&rsquo;d like to share?</strong></p>
+        <p>Come join our amazing community, we&rsquo;re building something cool, and are excited to share it with everyone! We host the WAX Wednesday early edition twitter space with Shnazzy at 9AM PST / 4PM UTC, and post video content daily on all our socials. Sundays are a casual weekly update with myself.</p>
+        <p>Thanks for having us!</p>
+        </li>
+        </ul>
+    </div>
+</div>
+
+<div class="swatch-footer py-5" style="background-color:#A7B9C8;">
+    <div class="container my-4 shadow-img">
+        <div class="row mt-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000469.png" class="img-fluid lightbox" alt="Dogefellasgame">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000470.png" class="img-fluid lightbox" alt="Dogefellasgame">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000471.png" class="img-fluid lightbox" alt="Dogefellasgame">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000472.gif" class="img-fluid lightbox" alt="Dogefellasgame">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <a href="swatch/bitcoin-bear.php"><i class="bi bi-arrow-left"></i> BITCOIN BEAR</a>
+            </div>
+            <div class="col-6 text-end">
+                <a href="swatch/cryptofunk-bears-2.php"> CRYPTOFUNK BEARS<i class="bi bi-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<?php
+    include '../footer.php'; // Include footer
+?>

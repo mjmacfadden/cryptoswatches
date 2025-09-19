@@ -1,0 +1,74 @@
+<?php
+     $og_image = 'https://mjmacfadden.github.io/cryptoswatches/img/featured-img/zer0c00lart-featured-img.png'; // Set before including header
+    include '../header.php'; // Include header
+?>
+<div class="swatch-hero py-5" style="background-color:#789C8B;">
+    <div class="container my-4 shadow-img">
+        <div class="d-flex justify-content-center align-items-center mb-4">
+            <img src="img/000413.png" class="img-fluid" alt="ZER0C00LART">
+        </div>
+        <a href="swatch/zer0c00lart.php#swatch-description">
+            <i class="bi bi-chevron-double-down"></i>
+        </a>
+    </div>
+</div>
+
+<div class="container my-4 shadow-img">
+    <div class="row mt-4 pb-5" id="swatch-description">
+        <h1>Zer0C00lArt</h1>
+        <h4>by Michael Macfadden</h4>
+        <p><strong>Please introduce yourself to our readers:</strong></p>
+        <p>Hello, I go by the name Elii and I am originally from Connecticut in the USA, currently living in New Jersey. My project or my work focuses on surrealism. I love ancient, modern as well as steampunk artwork and my work reflects on distorted faces, eyes and/or parts of the human body as well objects blended.</p>
+        <p><strong>What was the inspiration for this piece?</strong></p>
+        <p>The inspiration for this piece came from watching Star Trek. There is a race of cyborgs called the Borg where machines capture humans and assimilate them into cyborgs. The faces of the Borg inspired me to create a machine-like face, you really must look beyond the eyes to see the faces but yes, start with the eyes and you will find faces.</p>
+        <p><strong>How long have you been creating in the digital realm?</strong></p>
+        <p>My wife gifted me an iPad for Christmas 2 years go. I really didn&rsquo;t start creating on it until last year when I found NFTs in August of 2021. But I study the graphic programs and began drawing and studying the features and here I am.</p>
+        <p><strong>Can you tell us about your workflow?</strong></p>
+        <p>When I began creating, it was all on digital platforms. But the last few months I have been sketching and found this to be my preference. So, my first step is to sketch my work. Then, I take a clean photo, crop it and upload the photo to Procreate or Illustrator (Procreate is my preferred software). The last phase is digitally trace, add texture and color.</p>
+        <p><strong>Who are your artistic influences?</strong></p>
+        <p>Of course my first influence would be Pablo Picasso but my other influences include Salvador Dali, Keith Haring, Jean-Michel Basquiat and Vasily Kandisky but most will know him as Wassily Kandisky.</p>
+        <p><strong>What got you interested in NFTs/Crypto Art/Digital Collectibles?</strong></p>
+        <p>My love for art got me interested in NFTs. Most of us if not all see in the media the big purchases of Crypto Punks and Bored Apes, so of course, this is what first attracted me to NFTs. But when I noticed the potential of my creativity, I was all in. A true artist will focus on the art first, then the financial benefits.</p>
+        <p><strong>Where can we find you online?</strong></p>
+        <p>You can find me on:</p>
+        <ul>
+        <li><a title="https://twitter.com/Zer0c00LArt" href="https://twitter.com/Zer0c00LArt" target="_blank" rel="noopener">https://twitter.com/Zer0c00LArt</a></li>
+        <li><a title="https://neftyblocks.com/c/coffeepaint1/marketplace" href="https://neftyblocks.com/c/coffeepaint1/marketplace" target="_blank" rel="noopener">https://neftyblocks.com/c/coffeepaint1/marketplace</a></li>
+        <li><a title="https://objkt.com/profile/zer0c00lart/created" href="https://objkt.com/profile/zer0c00lart/created" target="_blank" rel="noopener">https://objkt.com/profile/zer0c00lart/created</a></li>
+        <li><a title="https://opensea.io/Zer0CooL&nbsp;" href="https://opensea.io/Zer0CooL%C2%A0" target="_blank" rel="noopener">https://opensea.io/Zer0CooL&nbsp;</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="swatch-footer py-5" style="background-color:#BBCDC5;">
+    <div class="container my-4 shadow-img">
+        <div class="row mt-4">
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000411.png" class="img-fluid lightbox" alt="ZER0C00LART">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000412.png" class="img-fluid lightbox" alt="ZER0C00LART">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000413.png" class="img-fluid lightbox" alt="ZER0C00LART">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center mb-4">
+                <img src="img/000414.gif" class="img-fluid lightbox" alt="ZER0C00LART">
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <a href="swatch/mammothmythics.php"><i class="bi bi-arrow-left"></i> MAMMOTHMYTHICS</a>
+            </div>
+            <div class="col-6 text-end">
+                <a href="swatch/theduckles.php">THE DUCKLES <i class="bi bi-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<?php
+    include '../footer.php'; // Include footer
+?>
