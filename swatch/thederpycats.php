@@ -46,7 +46,7 @@
                 <img src="img/000051.png" class="img-fluid lightbox" alt="">
             </div>
             <div class="col d-flex justify-content-center align-items-center mb-4">
-                <img src="img/000052.gIF" class="img-fluid lightbox" alt="">
+                <img src="img/000052.gif" class="img-fluid lightbox" alt="">
             </div>
         </div>
         <div class="row">
