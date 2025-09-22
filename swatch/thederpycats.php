@@ -6,7 +6,7 @@
 <div class="swatch-hero py-5" style="background-color:#3562FB;">
     <div class="container my-4 shadow-img">
         <div class="d-flex justify-content-center align-items-center mb-4">
-            <img src="img/000052.gIF" class="img-fluid" alt="@thederpycats">
+            <img src="img/000052.gif" class="img-fluid" alt="@thederpycats">
         </div>
         <a href="swatch/thederpycats.php#swatch-description">
             <i class="bi bi-chevron-double-down"></i>
