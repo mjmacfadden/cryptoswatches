@@ -64,7 +64,7 @@
                 <a href="swatch/artsofclarke.php"><i class="bi bi-arrow-left"></i> ARTS OF CLARKE</a>
             </div>
             <div class="col-6 text-end">
-                <a href="swatch/troysartwork.php">TROYSARTWORK <i class="bi bi-arrow-right"></i></a>
+                <a href="swatch/troysartwork.php">TROYS ARTWORK <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </div>
