@@ -49,10 +49,10 @@
         </div>
         <div class="row">
             <div class="col-6">
-                <a href="swatch/giantgiraffenft.php"><i class="bi bi-arrow-left"></i>GIANTGIRAFFENFT </a>
+                <a href="swatch/dogefellasgame.php"><i class="bi bi-arrow-left"></i> DOGEFELLASGAME</a>
             </div>
             <div class="col-6 text-end">
-                <a href="swatch/dogefellasgame.php"> DOGEFELLASGAME<i class="bi bi-arrow-right"></i></a>
+                <a href="swatch/cryptofunk-bears-2.php">CRYPTOFUNK BEARS <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </div>

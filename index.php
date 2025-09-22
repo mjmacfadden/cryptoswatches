@@ -14,11 +14,11 @@
   <div class="row">
     <!-- FILTER BUTTONS -->
     <div class="col d-flex justify-content-center">
-      <button type="button" id="show-all" class="btn btn-outline-secondary mx-1">ALL</button>
-      <button type="button" id="show-featured" class="btn btn-outline-secondary mx-1">FEATURED</button>
-      <button type="button" id="show-collabs" class="btn btn-outline-secondary mx-1">COLLABS</button>
-      <button type="button" id="show-swatches" class="btn btn-outline-secondary mx-1">SWATCHES</button>
-      <button type="button" id="show-originals" class="btn btn-outline-secondary mx-1">ORIGINALS</button>
+      <button type="button" id="show-all" class="btn btn-outline-secondary btn-sm mx-1">ALL</button>
+      <button type="button" id="show-featured" class="btn btn-outline-secondary btn-sm mx-1">FEATURED</button>
+      <button type="button" id="show-collabs" class="btn btn-outline-secondary btn-sm mx-1">COLLABS</button>
+      <button type="button" id="show-swatches" class="btn btn-outline-secondary btn-sm mx-1">SWATCHES</button>
+      <button type="button" id="show-originals" class="btn btn-outline-secondary btn-sm mx-1">ORIGINALS</button>
     </div>
   </div>
 

@@ -56,7 +56,7 @@
                 <a href="swatch/wtmacfadden.php"><i class="bi bi-arrow-left"></i> WTMACFADDEN</a>
             </div>
             <div class="col-6 text-end">
-                <a href="swatch/giantgiraffenft.php">GIANTGIRAFFENFT <i class="bi bi-arrow-right"></i></a>
+                <a href="swatch/eric_mindmaster.php">ERIC_MINDMASTER <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </div>

@@ -68,10 +68,10 @@
         </div>
         <div class="row">
             <div class="col-6">
-                <a href="swatch/bitcoin-bear.php"><i class="bi bi-arrow-left"></i> BITCOIN BEAR</a>
+                <a href="swatch/eric_mindmaster.php"><i class="bi bi-arrow-left"></i> ERIC_MINDMASTER</a>
             </div>
             <div class="col-6 text-end">
-                <a href="swatch/cryptofunk-bears-2.php"> CRYPTOFUNK BEARS<i class="bi bi-arrow-right"></i></a>
+                <a href="swatch/bitcoin-bear.php">BITCOIN BEAR <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </div>

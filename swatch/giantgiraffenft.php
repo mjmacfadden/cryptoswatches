@@ -58,10 +58,10 @@
         </div>
         <div class="row">
             <div class="col-6">
-                <a href="swatch/cyanidearts.php"><i class="bi bi-arrow-left"></i> CYANIDEARTS</a>
+                <a href="swatch/cryptofunk-bears-2.php"><i class="bi bi-arrow-left"></i> CRYPTOFUNK BEARS</a>
             </div>
             <div class="col-6 text-end">
-                <a href="swatch/bitcoin-bear.php">BITCOIN BEAR <i class="bi bi-arrow-right"></i></a>
+                <a href="swatch/saduone.php">SADU ONE<i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </div>
