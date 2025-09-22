@@ -105,6 +105,21 @@ SEARCH
 }
 /*
 =================================================
+INDEX BUTTONS
+=================================================
+*/
+.overflow-auto {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* Firefox */
+}
+.overflow-auto::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
+
+
+
+/*
+=================================================
 P2E
 =================================================
 */

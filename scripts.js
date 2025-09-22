@@ -18,27 +18,20 @@ document.querySelectorAll('.col-lg-2 img').forEach(img => {
 // FILTERS
 const allCols = document.querySelectorAll('.col-lg-2');
 
-// Get all filter buttons
-const filterBtns = [
-    document.getElementById('show-all'),
-    document.getElementById('show-collabs'),
-    document.getElementById('show-swatches'),
-    document.getElementById('show-originals'),
-    document.getElementById('show-featured')
-];
+// Grab all filter buttons (desktop + mobile)
+const filterBtns = document.querySelectorAll('.filter-btn');
 
 // Helper to update button styles
-function setActiveBtn(activeBtn) {
+function setActiveBtn(filter) {
     filterBtns.forEach(btn => {
-        if (btn) {
-            btn.classList.remove('btn-secondary', 'btn-outline-secondary');
-            btn.classList.add('btn-outline-secondary');
+        btn.classList.remove('btn-secondary', 'btn-outline-secondary');
+        btn.classList.add('btn-outline-secondary');
+
+        if (btn.dataset.filter === filter) {
+            btn.classList.remove('btn-outline-secondary');
+            btn.classList.add('btn-secondary');
         }
     });
-    if (activeBtn) {
-        activeBtn.classList.remove('btn-outline-secondary');
-        activeBtn.classList.add('btn-secondary');
-    }
 }
 
 function showAllCols() {
@@ -58,55 +51,21 @@ function filterByClass(className) {
     });
 }
 
-// ALL button
-const showAllBtn = document.getElementById('show-all');
-if (showAllBtn) {
-    showAllBtn.addEventListener('click', function() {
-        showAllCols();
-        setActiveBtn(showAllBtn);
-        console.log('All button clicked');
-    });
-}
+// Attach events to filter buttons
+filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+        const filter = btn.dataset.filter;
 
-// COLLABS button
-const showCollabsBtn = document.getElementById('show-collabs');
-if (showCollabsBtn) {
-    showCollabsBtn.addEventListener('click', function() {
-        filterByClass('show-collabs');
-        setActiveBtn(showCollabsBtn);
-        console.log('Collabs button clicked');
-    });
-}
+        if (filter === 'all') {
+            showAllCols();
+        } else {
+            filterByClass(`show-${filter}`);
+        }
 
-// SWATCHES button
-const showSwatchesBtn = document.getElementById('show-swatches');
-if (showSwatchesBtn) {
-    showSwatchesBtn.addEventListener('click', function() {
-        filterByClass('show-swatches');
-        setActiveBtn(showSwatchesBtn);
-        console.log('Swatches button clicked');
+        setActiveBtn(filter);
+        console.log(`${filter} button clicked`);
     });
-}
-
-// ORIGINALS button
-const showOriginalsBtn = document.getElementById('show-originals');
-if (showOriginalsBtn) {
-    showOriginalsBtn.addEventListener('click', function() {
-        filterByClass('show-originals');
-        setActiveBtn(showOriginalsBtn);
-        console.log('Originals button clicked');
-    });
-}
-
-// FEATURED button
-const showFeaturedBtn = document.getElementById('show-featured');
-if (showFeaturedBtn) {
-    showFeaturedBtn.addEventListener('click', function() {
-        filterByClass('show-featured');
-        setActiveBtn(showFeaturedBtn);
-        console.log('Featured button clicked');
-    });
-}
+});
 
 // SEARCH (use d-none for hiding)
 const userInput = document.getElementById('userInput');

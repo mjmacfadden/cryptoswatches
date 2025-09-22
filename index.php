@@ -11,16 +11,35 @@
     </div>
   </div>
 
-  <div class="row">
-    <!-- FILTER BUTTONS -->
-    <div class="col d-flex justify-content-center">
-      <button type="button" id="show-all" class="btn btn-outline-secondary btn-sm mx-1">ALL</button>
-      <button type="button" id="show-featured" class="btn btn-outline-secondary btn-sm mx-1">FEATURED</button>
-      <button type="button" id="show-collabs" class="btn btn-outline-secondary btn-sm mx-1">COLLABS</button>
-      <button type="button" id="show-swatches" class="btn btn-outline-secondary btn-sm mx-1">SWATCHES</button>
-      <button type="button" id="show-originals" class="btn btn-outline-secondary btn-sm mx-1">ORIGINALS</button>
+<div class="row">
+  <div class="col">
+
+    <!-- DESKTOP: centered, visible md+ -->
+    <div class="d-none d-md-flex justify-content-center">
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm mx-1" data-filter="all">ALL</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm mx-1" data-filter="featured">FEATURED</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm mx-1" data-filter="collabs">COLLABS</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm mx-1" data-filter="swatches">SWATCHES</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm mx-1" data-filter="originals">ORIGINALS</button>
     </div>
+
+    <!-- MOBILE: scrollable left-aligned, visible < md -->
+    <div class="d-flex d-md-none flex-nowrap overflow-auto px-2">
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm me-2 flex-shrink-0" data-filter="all">ALL</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm me-2 flex-shrink-0" data-filter="featured">FEATURED</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm me-2 flex-shrink-0" data-filter="collabs">COLLABS</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm me-2 flex-shrink-0" data-filter="swatches">SWATCHES</button>
+      <button type="button" class="filter-btn btn btn-outline-secondary btn-sm me-2 flex-shrink-0" data-filter="originals">ORIGINALS</button>
+    </div>
+
   </div>
+</div>
+
+
+
+
+
+
 
   <div class="row mt-4">
     <!-- ROW 1 -->
